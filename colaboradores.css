@@ -1,0 +1,239 @@
+
+.hidden {
+  display: none !important;
+}
+
+.toast {
+    visibility: hidden;
+    min-width: 250px;
+    margin: auto;
+    background-color: #83c783;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    position: fixed;
+    text-wrap: nowrap;
+    border: 1px solid rgb(21, 130, 21);
+    z-index: 1;
+    top: 220px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 10px;
+    transition: 0.5s;
+  }
+
+th {
+    padding-bottom: 20px;
+}
+
+td{
+    padding: 2px 20px !important;
+}
+
+.tableDiv{
+    margin-top: 30px;
+}
+
+.cnpjSelectorDiv {
+  margin: 0px !important;
+}
+
+.cnpjSelectorDiv div{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.centralizeTrash {
+    display: flex;
+    justify-content: center;
+}
+
+td button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+button img {
+    width: 20px;
+}
+
+.refreshBtn{
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+    border: 1px solid #8C00D4;
+    background-color: #8C00D4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+}
+
+.refreshBtn img {
+    height: 20px;
+}
+
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+  
+  .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 500px;
+    text-align: center;
+    border-radius: 20px;
+
+    h3 {
+        padding: 24px 0px;
+    }
+
+    select {
+        margin: 5px 0px 20px 0px;
+        option {
+            font-size: 16px;
+            
+        }
+    }
+
+    .btnDiv {
+        margin: 20px 0px 5px;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+      
+    }
+  }
+
+  .secondaryBtn {
+    border: 1px solid #8C00D4;
+    box-shadow: none;
+    color: #8C00D4;
+    background: transparent;
+    cursor: pointer;
+   
+  }
+  .primaryBtn {
+    box-shadow:inset 0px 1px 0px 0px #ab4bdb;
+      background-color:#8C00D4;
+      border-radius:6px;
+      border:1px solid #8C00D4;
+    font-weight: 600;
+      cursor:pointer;
+      color:#ffffff;
+    padding: 10px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  
+  }
+  button:hover {
+  
+  
+    box-shadow: 0px 7px 10.4px 0px #0000001c;
+  
+  
+  }
+  #reasonError {
+    color: red;
+    font-size: 14px;
+  }
+
+  #role-reasonError {
+    color: red;
+    font-size: 14px;
+  }
+
+  .error {
+    border: 1px solid red;
+    color: black;
+  }
+  
+  
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+.modalBtn {
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+}
+
+.middlePanel {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  margin: 20px 0px;
+  width: 60%;
+}
+
+.createUsersBtn {
+  height: 40px;
+
+}
+
+.createUsersBtnDiv a {
+  text-decoration: none;
+}
+
+.enterRoleBtn {
+  color: #8C00D4;
+font-size: 16px;
+text-decoration: underline;
+
+
+}
+
+.enterRoleBtn:hover{
+  box-shadow: none;
+  color: #570083;
+  transform: scale(1.01);
+}
+
+.enterRoleBtn2 {
+padding: 3px 12px;
+font-size: 13px;
+
+
+}
+
+
+@media (max-width: 480px){
+  .createUsersBtn{
+    display: none; 
+  }
+
+  #tableDiv{
+    max-width: 440px;
+  }
+}

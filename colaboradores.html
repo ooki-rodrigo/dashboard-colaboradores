@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Meus Colaboradores</title>
+      <link rel="stylesheet" href="colaboradores.css" />
+      <link rel="stylesheet" href="form.css" />
+      <link rel="stylesheet" href="./header.css" />
+      <link rel="stylesheet" href="common.css" />
+      <script src="./colaboradores.js" defer type="module"></script>
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <link
+         href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap"
+         rel="stylesheet"
+      />
+   </head>
+   <body>
+      <header>
+         <img src="logo.png" alt="" />
+         <nav>
+            <a href="./index.html">Cadastro de Colaboradores</a>
+            <a href="./colaboradores.html" class="selected">Meus Colaboradores</a>
+            <a href="./dashboard_performance.html">Progresso de Estudo</a>
+         </nav>
+         <div class="menu-toggle">
+            <div class="hamburger"></div>
+            <div class="hamburger"></div>
+            <div class="hamburger"></div>
+         </div>
+         <div class="gray-bg-nav-hamburguer hidden">
+            <div class="nav-links">
+               <a href="./index.html">Cadastro de Colaboradores</a>
+               <a href="./colaboradores.html" class="selected">Meus Colaboradores</a>
+               <a href="./dashboard_performance.html">Progresso de Estudo</a>
+            </div>
+         </div>
+      </header>
+
+      <div id="main-container" class="mainContainer">
+         <h2>Meus Colaboradores</h2>
+         <div class="middlePanel">
+            <div class="cnpjSelectorDiv">
+               <h3>Selecione o CNPJ</h3>
+               <div>
+                  <select name="cnpj" id="cnpj-selector"></select>
+                  <button id="refreshBtn" class="refreshBtn">
+                     <img src="./refresh.png" alt="" />
+                  </button>
+               </div>
+            </div>
+            <div class="createUsersBtnDiv">
+               <a href="./index.html">
+                  <button class="createUsersBtn primaryBtn">Cadastrar Colaboradores</button>
+               </a>
+            </div>
+         </div>
+         <div id="tableDiv" class="tableDiv"></div>
+      </div>
+      <div id="toast" class="toast"></div>
+      <div id="myModal" class="modal">
+         <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Desabilitar Colaborador</h2>
+            <h3 id="excludedUserNameTextField"></h3>
+            <p>Qual é o motivo para desabilitar o usuário?</p>
+            <p id="reasonError" class="hidden">Selecione uma opção</p>
+            <select id="dropdown" required>
+               <option value="" selected disabled>Selecionar...</option>
+               <option value="Demissão do Colaborador">Demissão do Colaborador</option>
+               <option value="Colaborador pediu para sair da farmácia">
+                  Colaborador pediu para sair da farmácia
+               </option>
+               <option value="Outros">Outros</option>
+            </select>
+            <div class="btnDiv">
+               <button class="modalBtn secondaryBtn" id="noBtn">Cancelar</button>
+               <button class="modalBtn primaryBtn" id="yesBtn">Confirmar</button>
+            </div>
+         </div>
+      </div>
+      <div id="roleModal" class="modal">
+         <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Informar Cargo</h2>
+            <h3 id="roleUserNameTextField"></h3>
+            <p>Qual é o Cargo do Colaborador?</p>
+            <p id="role-reasonError" class="hidden">Selecione uma opção</p>
+            <select id="role-dropdown" required>
+               <option value="" selected disabled>Selecionar...</option>
+               <option value="Cargo - Balconista">Balconista</option>
+               <option value="Cargo - Farmacêutico">Farmacêutico(a)</option>
+               <option value="Cargo - Gerente">Gerente</option>
+            </select>
+            <div class="btnDiv">
+               <button class="modalBtn secondaryBtn" id="role-noBtn">Cancelar</button>
+               <button class="modalBtn primaryBtn" id="role-yesBtn">Confirmar</button>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>

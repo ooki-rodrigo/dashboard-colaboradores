@@ -1,0 +1,3290 @@
+[
+  {
+    "email": "matheusrvitor@gmail.com",
+    "celular": "35997106572"
+  },
+  {
+    "email": "camilabraz1712@gmail.com",
+    "celular": "85996108552"
+  },
+  {
+    "email": "vieirataina@gmail.com",
+    "celular": "75999366489"
+  },
+  {
+    "email": "juscielesan20@gmail.com",
+    "celular": "75997113570"
+  },
+  {
+    "email": "rodrigoooki@gmail.com",
+    "celular": "19993932922"
+  },
+  {
+    "email": "vieirataina612@gmail.com",
+    "celular": "75999366489"
+  },
+  {
+    "email": "nice92053688@gmail.com",
+    "celular": "92984700127"
+  },
+  {
+    "email": "maltafarmard@gmail.com",
+    "celular": "21972692176"
+  },
+  {
+    "email": "vaniaqueirozlima905@gmail.com",
+    "celular": "84996953237"
+  },
+  {
+    "email": "thayna.e.analuiza@gmail.com",
+    "celular": "21993576565"
+  },
+  {
+    "email": "eliziariam@gmail.com",
+    "celular": "83993698964"
+  },
+  {
+    "email": "noanycosta20@gmail.com",
+    "celular": "66992502238"
+  },
+  {
+    "email": "gdossantosjanke@gmail.com",
+    "celular": "66996025415"
+  },
+  {
+    "email": "marquinhodefreitas@hotmail.com",
+    "celular": "66992227322"
+  },
+  {
+    "email": "francyromeu01@gmail.com",
+    "celular": "65999409017"
+  },
+  {
+    "email": "tayvieira542@gmail.com",
+    "celular": "75999366489"
+  },
+  {
+    "email": "victorcaxambu@hotmail.com",
+    "celular": "32998055587"
+  },
+  {
+    "email": "luanafarmaa@outlook.com",
+    "celular": "62981159920"
+  },
+  {
+    "email": "dianasilva080919@gmail.com",
+    "celular": "88994413162"
+  },
+  {
+    "email": "geneilsons10@gmail.com",
+    "celular": "79988029665"
+  },
+  {
+    "email": "marinasantos1009@gmail.com",
+    "celular": "77981078229"
+  },
+  {
+    "email": "laboratoriofarma.itauna@gmail.com",
+    "celular": "37998219043"
+  },
+  {
+    "email": "thiagomedas.gestao@gmail.com",
+    "celular": "21995570937"
+  },
+  {
+    "email": "alefehenrique143@gmail.com",
+    "celular": "33984098479"
+  },
+  {
+    "email": "eivanete7@gmail.com",
+    "celular": "62985688575"
+  },
+  {
+    "email": "dani.nascimento@rmfarma.com.br",
+    "celular": "11944445128"
+  },
+  {
+    "email": "amandagabriele747@gmail.com",
+    "celular": "33999104958"
+  },
+  {
+    "email": "ranny10@hotmail.com",
+    "celular": "87988047809"
+  },
+  {
+    "email": "behalves11@gmail.com",
+    "celular": "75999298590"
+  },
+  {
+    "email": "suyannetalyta@gmail.com",
+    "celular": "91984528466"
+  },
+  {
+    "email": "elanyoliveiracg@gmail.com",
+    "celular": "83986907475"
+  },
+  {
+    "email": "helensantos1504@gmail.com",
+    "celular": "75999250268"
+  },
+  {
+    "email": "carolmendesbissiati@hotmail.com",
+    "celular": "32984599114"
+  },
+  {
+    "email": "studyfolder.2023@gmail.com",
+    "celular": "94991244515"
+  },
+  {
+    "email": "maylanacvera@outlook.com",
+    "celular": "66996018115"
+  },
+  {
+    "email": "vrmjunior1983@gmail.com",
+    "celular": "65999546425"
+  },
+  {
+    "email": "emidiomarjore@gmail.com",
+    "celular": "98985970046"
+  },
+  {
+    "email": "costa.lorranna2005@gmail.com",
+    "celular": "98982467936"
+  },
+  {
+    "email": "misoliveira35@hotmail.com",
+    "celular": "75992316118"
+  },
+  {
+    "email": "isabelerosendo1@gmail.com",
+    "celular": "75999269687"
+  },
+  {
+    "email": "carolineccampoy@gmail.com",
+    "celular": "11969550061"
+  },
+  {
+    "email": "lilianefreiretube@gmail.com",
+    "celular": "91992714454"
+  },
+  {
+    "email": "patriciaruela@gmail.com",
+    "celular": "24981471300"
+  },
+  {
+    "email": "lenalvalima05@gmail.com.br",
+    "celular": "91992246263"
+  },
+  {
+    "email": "vinniciusextra@gmail.com",
+    "celular": "65981709660"
+  },
+  {
+    "email": "tufaoclebson@gmail.com",
+    "celular": "91991413927"
+  },
+  {
+    "email": "michelelenildo@hotmail.com",
+    "celular": "75997056691"
+  },
+  {
+    "email": "ellyalves29@gmail.com",
+    "celular": "75998140430"
+  },
+  {
+    "email": "barretocarliomar@gmail.com",
+    "celular": "99984542247"
+  },
+  {
+    "email": "danielea372@gmail.com",
+    "celular": "7599036032"
+  },
+  {
+    "email": "danielesilva415@gmail.com",
+    "celular": "79999570708"
+  },
+  {
+    "email": "wslania8@gmail.com",
+    "celular": "75993022428"
+  },
+  {
+    "email": "carlos.junior@rmfarma.com.br",
+    "celular": "35987011383"
+  },
+  {
+    "email": "tiagofuhrmann98@gmail.com",
+    "celular": "11962260434"
+  },
+  {
+    "email": "marascalioni.mr@gmail.com",
+    "celular": "35998278922"
+  },
+  {
+    "email": "guii1998soaress@gmail.com",
+    "celular": "11938008002"
+  },
+  {
+    "email": "cristiano.pereira@rmfarma.com.br",
+    "celular": "11992178348"
+  },
+  {
+    "email": "vi.celine181527@gmail.com",
+    "celular": "82999572088"
+  },
+  {
+    "email": "rayanebellacullen@hotmail.com",
+    "celular": "82981036495"
+  },
+  {
+    "email": "vanessa.silva10silva.10@gmail.com",
+    "celular": "82996670075"
+  },
+  {
+    "email": "hccbzfdr9p@privaterelay.appleid.com",
+    "celular": "82981025118"
+  },
+  {
+    "email": "rayaneporto.rp@gmail.com",
+    "celular": "82981873110"
+  },
+  {
+    "email": "adrezgt@hotmail.com",
+    "celular": "82991862365"
+  },
+  {
+    "email": "fabianetigre@hotmail.com",
+    "celular": "94992141988"
+  },
+  {
+    "email": "paulaebrendo32@gmail.com",
+    "celular": "75999977393"
+  },
+  {
+    "email": "sr.lenilsoncabral@gmail.com",
+    "celular": "91992958609"
+  },
+  {
+    "email": "ilzadalzoto12@gmail.com",
+    "celular": "67981236684"
+  },
+  {
+    "email": "nararodriguesdias@hotmail.com",
+    "celular": "62985802617"
+  },
+  {
+    "email": "gbraga88@gmail.com",
+    "celular": "18997708694"
+  },
+  {
+    "email": "caroldani_valadao@hotmail.com",
+    "celular": "69992681377"
+  },
+  {
+    "email": "hugo@v3contabilidade.com",
+    "celular": "71991101148"
+  },
+  {
+    "email": "liviagama00@gmail.com",
+    "celular": "75999751857"
+  },
+  {
+    "email": "valniress@gmail.com",
+    "celular": "82996693026"
+  },
+  {
+    "email": "wallaceos2020@gmail.com",
+    "celular": "38992587518"
+  },
+  {
+    "email": "farmaciansap@hotmail.com",
+    "celular": "35997474547"
+  },
+  {
+    "email": "lsantosvip@hotmail.com",
+    "celular": "75998800826"
+  },
+  {
+    "email": "paloma.nmoura2022@gmail.com",
+    "celular": "75991049271"
+  },
+  {
+    "email": "rafaelasolposto70@gmail.com",
+    "celular": "75998551050"
+  },
+  {
+    "email": "maria.maximize@gmail.com",
+    "celular": "11972246077"
+  },
+  {
+    "email": "geomatos12@gmail.com",
+    "celular": "75997130673"
+  },
+  {
+    "email": "flawyasowzah@gmail.com",
+    "celular": "75999243282"
+  },
+  {
+    "email": "locmais.contato@hotmail.com",
+    "celular": "63981361469"
+  },
+  {
+    "email": "liviatc.ferreira@gmail.com",
+    "celular": "35991273321"
+  },
+  {
+    "email": "ds.pontes353578@gmail.com",
+    "celular": "21975928521"
+  },
+  {
+    "email": "joaogabrielvicente@outlook.com.br",
+    "celular": "21964681703"
+  },
+  {
+    "email": "rm.marcoalmeida@gmail.com",
+    "celular": "17981591566"
+  },
+  {
+    "email": "marlon162410@gmail.com",
+    "celular": "91992657153"
+  },
+  {
+    "email": "mrfontes3@icloud.com",
+    "celular": "11932998537"
+  },
+  {
+    "email": "ana.nubialeao@gmail.com",
+    "celular": "31985082979"
+  },
+  {
+    "email": "macielgsantos@hotmail.com",
+    "celular": "46999023435"
+  },
+  {
+    "email": "adilson_soll@hotmail.com",
+    "celular": "65984226461"
+  },
+  {
+    "email": "sergio.aparicio@rmfarma.com.br",
+    "celular": "11982096511"
+  },
+  {
+    "email": "gdobos@uol.com.br",
+    "celular": "13997959575"
+  },
+  {
+    "email": "vduraes545@gmail.com",
+    "celular": "38999985486"
+  },
+  {
+    "email": "ericaribeiro672@gmail.com",
+    "celular": "91998159623"
+  },
+  {
+    "email": "sayonarasocfarm@gmail.com",
+    "celular": "84988380744"
+  },
+  {
+    "email": "joabesousaa20@gmail.com",
+    "celular": "99984729477"
+  },
+  {
+    "email": "farmaaldair2019@gmail.com",
+    "celular": "66999521667"
+  },
+  {
+    "email": "farmasilva35@hotmail.com",
+    "celular": "99984484347"
+  },
+  {
+    "email": "yasminfilha22003@gmail.com",
+    "celular": "88996538945"
+  },
+  {
+    "email": "leticiapadilha2017@gmail.com",
+    "celular": "67996677860"
+  },
+  {
+    "email": "jorgematos059@gmail.com",
+    "celular": "85994120152"
+  },
+  {
+    "email": "tiago.tiagom10@gmail.com",
+    "celular": "11962260434"
+  },
+  {
+    "email": "amandajp8209@gmail.com",
+    "celular": "91989204607"
+  },
+  {
+    "email": "andressaabreu007@gmail.com",
+    "celular": "85991910789"
+  },
+  {
+    "email": "julianac52p@gmail.com",
+    "celular": "85992912758"
+  },
+  {
+    "email": "gleicioliver99@gmail.com",
+    "celular": "85992058610"
+  },
+  {
+    "email": "wilson.junior@rmfarma.com.br",
+    "celular": "11995759788"
+  },
+  {
+    "email": "luizfernandobrz@hotmail.com",
+    "celular": "65698022505"
+  },
+  {
+    "email": "edersonfb@me.com",
+    "celular": "16992575064"
+  },
+  {
+    "email": "ingridcarolla@gmail.com",
+    "celular": "21964526441"
+  },
+  {
+    "email": "lhorranacorreia@gmail.com",
+    "celular": "91991117935"
+  },
+  {
+    "email": "ferreirathais034@gmail.com",
+    "celular": "91991393170"
+  },
+  {
+    "email": "murilo098@hotmail.com",
+    "celular": "66999314133"
+  },
+  {
+    "email": "jeffersoncastro0601@gmail.com",
+    "celular": "94991687212"
+  },
+  {
+    "email": "marciohenrique_magalhaes@live.com",
+    "celular": "98985090212"
+  },
+  {
+    "email": "cristianelive767@gmail.com",
+    "celular": "91993125845"
+  },
+  {
+    "email": "elanepacheco32@gmail.com",
+    "celular": "91988230122"
+  },
+  {
+    "email": "ws318191@gmail.com",
+    "celular": "91992699331"
+  },
+  {
+    "email": "larissacavalcante2416@gmail.com",
+    "celular": "85988945462"
+  },
+  {
+    "email": "keth.santana27@gmail.com",
+    "celular": "11952034894"
+  },
+  {
+    "email": "nicollykedma24809@gmail.com",
+    "celular": "11916111578"
+  },
+  {
+    "email": "doricelmog@gmail.com",
+    "celular": "85989475862"
+  },
+  {
+    "email": "ds22112410@gmail.com",
+    "celular": "67999648435"
+  },
+  {
+    "email": "guilherme.lacerda@rmfarma.com.br",
+    "celular": "21969556517"
+  },
+  {
+    "email": "veronicasilvabrito2104@gmail.com",
+    "celular": "85999033212"
+  },
+  {
+    "email": "angeloandrea224@gmail.com",
+    "celular": "85994222583"
+  },
+  {
+    "email": "sannarmpharmacy@gmail.com",
+    "celular": "92995061701"
+  },
+  {
+    "email": "sannarmpharmacy@gmail.com",
+    "celular": "92995061701"
+  },
+  {
+    "email": "adryellyr.d.s@gmail.com",
+    "celular": "66999916893"
+  },
+  {
+    "email": "davidizabela74@gmail.com",
+    "celular": "91992309927"
+  },
+  {
+    "email": "carol.florner@gmail.com",
+    "celular": "27995049104"
+  },
+  {
+    "email": "elenildasf@hotmeio.com",
+    "celular": "85988389760"
+  },
+  {
+    "email": "kaypetillo@gmail.com",
+    "celular": "22988331730"
+  },
+  {
+    "email": "pablopacceli@hotmail.com",
+    "celular": "84988695300"
+  },
+  {
+    "email": "elieteapimenta@gmail.com",
+    "celular": "31996376935"
+  },
+  {
+    "email": "renan.018@gmail.com",
+    "celular": "43984041425"
+  },
+  {
+    "email": "renan.nunes@rmfarma.com.br",
+    "celular": "43984041425"
+  },
+  {
+    "email": "mariccl2015@hotmail.com",
+    "celular": "65999213569"
+  },
+  {
+    "email": "ioannis.neto@rmfarma.com.br",
+    "celular": "11985678783"
+  },
+  {
+    "email": "luciana_silvaalmeida@hotmail.com",
+    "celular": "14997674196"
+  },
+  {
+    "email": "maged.marjoub@rmfarma.com.br",
+    "celular": "11982741420"
+  },
+  {
+    "email": "laura.lmv@hotmail.com",
+    "celular": "98992332329"
+  },
+  {
+    "email": "giovanamc@hotmail.com",
+    "celular": "14991201893"
+  },
+  {
+    "email": "diegorep.med@gmail.com",
+    "celular": "62984752684"
+  },
+  {
+    "email": "stuanimarcia21@gmail.com",
+    "celular": "67991232162"
+  },
+  {
+    "email": "nayarahavila5@gmail.com",
+    "celular": "88996063820"
+  },
+  {
+    "email": "leo.farmanato@gmail.com",
+    "celular": "88981696018"
+  },
+  {
+    "email": "thiago.av77@gmail.com",
+    "celular": "38997542513"
+  },
+  {
+    "email": "julianasantos.gbi23@gmail.com",
+    "celular": "77999522992"
+  },
+  {
+    "email": "dayzinha_dias@hotmail.com",
+    "celular": "82982070139"
+  },
+  {
+    "email": "marcusaraujo0072@gmail.com",
+    "celular": "85988226895"
+  },
+  {
+    "email": "helenbeatryz10@gmail.com",
+    "celular": "83993737462"
+  },
+  {
+    "email": "samarajetaime@live.com",
+    "celular": "66992356422"
+  },
+  {
+    "email": "jefersoncardoso88@outlook.com.br",
+    "celular": "14981029110"
+  },
+  {
+    "email": "antunesrenatinha@hotmail.com",
+    "celular": "71992650112"
+  },
+  {
+    "email": "wdysonarantes@gmail.com",
+    "celular": "35997637949"
+  },
+  {
+    "email": "emanuelsampaio2024@gmail.com",
+    "celular": "85996541495"
+  },
+  {
+    "email": "queren.colnago@rmfarma.com.br",
+    "celular": "11971878196"
+  },
+  {
+    "email": "andressa.almeida@rmfarma.com.br",
+    "celular": "11997581185"
+  },
+  {
+    "email": "gaah55@gmail.com",
+    "celular": "14996276929"
+  },
+  {
+    "email": "antoniob.2017b@gmail.com",
+    "celular": "88997848141"
+  },
+  {
+    "email": "annybritto2019@gmail.com",
+    "celular": "91993744823"
+  },
+  {
+    "email": "henriquealves_melo@hotmail.com",
+    "celular": "81987028026"
+  },
+  {
+    "email": "emanuelycarolinetc@gmail.com",
+    "celular": "91992402135"
+  },
+  {
+    "email": "sheyla.ellias@gmail.com",
+    "celular": "79996810109"
+  },
+  {
+    "email": "valdineiapereiraaleixo@gmail.com",
+    "celular": "99992064023"
+  },
+  {
+    "email": "dayannetacyla@gmail.com",
+    "celular": "82982340128"
+  },
+  {
+    "email": "maryleonel813@gmail.com",
+    "celular": "82993552109"
+  },
+  {
+    "email": "rouzemia@gmail.com",
+    "celular": "85985981163"
+  },
+  {
+    "email": "andre.c.farmaceutico@gmail.com",
+    "celular": "86995666652"
+  },
+  {
+    "email": "dacianecosta0@gmail.com",
+    "celular": "82982127519"
+  },
+  {
+    "email": "araujoadaisapereira@gmail.com",
+    "celular": "99991078078"
+  },
+  {
+    "email": "silvaniarocha2019.fso@gmail.com",
+    "celular": "38998989697"
+  },
+  {
+    "email": "pss1992pi@gmail.com",
+    "celular": "99984107299"
+  },
+  {
+    "email": "fabiolastranieri@gmail.com",
+    "celular": "69984422653"
+  },
+  {
+    "email": "denilsondcm088@gmail.com",
+    "celular": "88999970554"
+  },
+  {
+    "email": "walisson.ferreira@rmfarma.com.br",
+    "celular": "11962532717"
+  },
+  {
+    "email": "katarine.rocha00@gmail.com",
+    "celular": "88997619729"
+  },
+  {
+    "email": "ramonmodim@hotmail.com",
+    "celular": "38998253688"
+  },
+  {
+    "email": "el728095@gmail.com",
+    "celular": "88992471339"
+  },
+  {
+    "email": "juliano.santos@rmfarma.com.br",
+    "celular": "11914714458"
+  },
+  {
+    "email": "mah.borba@hotmail.com",
+    "celular": "11949562781"
+  },
+  {
+    "email": "lck194597@gmail.com",
+    "celular": "73991138654"
+  },
+  {
+    "email": "soraima04@hotmail.com",
+    "celular": "83996365351"
+  },
+  {
+    "email": "gustavo.russi@icloud.com",
+    "celular": "19981851616"
+  },
+  {
+    "email": "cevertoncelio@gmail.com",
+    "celular": "38998535823"
+  },
+  {
+    "email": "ericapereira1568@gmail.com",
+    "celular": "85997278461"
+  },
+  {
+    "email": "rayssa020208@hotmail.com",
+    "celular": "94984101077"
+  },
+  {
+    "email": "ariane.briesch@gmail.com",
+    "celular": "66999770799"
+  },
+  {
+    "email": "drogamatheus@yahoo.com.br",
+    "celular": "32985098251"
+  },
+  {
+    "email": "fsaofrancis@hotmail.com",
+    "celular": "32984064258"
+  },
+  {
+    "email": "cintia.grasi@hotmail.com",
+    "celular": "35999041578"
+  },
+  {
+    "email": "drogsantarita19@gmail.com",
+    "celular": "32984915164"
+  },
+  {
+    "email": "drogajudas@hotmail.com",
+    "celular": "35997577312"
+  },
+  {
+    "email": "ferdinanroberth@hotmail.com",
+    "celular": "11933527491"
+  },
+  {
+    "email": "farmaciahiperpopularjp@gmail.com",
+    "celular": "83987000044"
+  },
+  {
+    "email": "drogariadotoninho@hotmail.com",
+    "celular": "32984261322"
+  },
+  {
+    "email": "nessapedrosa_14@hotmail.com",
+    "celular": "18997349002"
+  },
+  {
+    "email": "felipe.muriae19@gmail.com",
+    "celular": "32999920243"
+  },
+  {
+    "email": "mateusmusicr4@gmail.com",
+    "celular": "85999563891"
+  },
+  {
+    "email": "joander_carvalho@hotmail.com",
+    "celular": "75999101566"
+  },
+  {
+    "email": "evertonccv18@gmail.com",
+    "celular": "38998535823"
+  },
+  {
+    "email": "joao.azevedo@rmfarma.com.br",
+    "celular": "21964681723"
+  },
+  {
+    "email": "fernando.romario91@gmail.com",
+    "celular": "85997904516"
+  },
+  {
+    "email": "anapaulanc55@gmail.com",
+    "celular": "84994939893"
+  },
+  {
+    "email": "rosamattos015@gmail.com",
+    "celular": "85999403969"
+  },
+  {
+    "email": "lucaspelegrini3307@gmail.com",
+    "celular": "91992466281"
+  },
+  {
+    "email": "b.ih@live.com",
+    "celular": "85998023447"
+  },
+  {
+    "email": "mikaelysilva1412@gmail.com",
+    "celular": "85989617942"
+  },
+  {
+    "email": "admfarmapopular01@gmail.com",
+    "celular": "88988850859"
+  },
+  {
+    "email": "dimaralopes@hotmail.com",
+    "celular": "38988123829"
+  },
+  {
+    "email": "celitoodias@terra.com.br",
+    "celular": "67996785200"
+  },
+  {
+    "email": "hiperpopularvg@gmail.com",
+    "celular": "44991667505"
+  },
+  {
+    "email": "hugogeovannesouzaramos@gmail.com",
+    "celular": "91984849782"
+  },
+  {
+    "email": "marlamari@hotmail.com",
+    "celular": "61981921513"
+  },
+  {
+    "email": "kelly.miyake@rmfarma.com.br",
+    "celular": "35988024198"
+  },
+  {
+    "email": "mikaela.candido@rmfarma.com.br",
+    "celular": "35984334924"
+  },
+  {
+    "email": "patriciagabrielapereiracruz@gmail.com",
+    "celular": "34997384252"
+  },
+  {
+    "email": "larissa.pedreira@rmfarma.com.br",
+    "celular": "35984193752"
+  },
+  {
+    "email": "mariana.moreira@rmfarma.com.br",
+    "celular": "35992632159"
+  },
+  {
+    "email": "cottaraul@gmail.com",
+    "celular": "31987937122"
+  },
+  {
+    "email": "multifarmaslzi@gmail.com",
+    "celular": "98981900312"
+  },
+  {
+    "email": "laradenis1@hotmail.com",
+    "celular": "45984046029"
+  },
+  {
+    "email": "felipecrochan@gmail.com",
+    "celular": "81996573294"
+  },
+  {
+    "email": "medeiros_dm@hotmail.com",
+    "celular": "63992094265"
+  },
+  {
+    "email": "mycmaseduardo12345@gmail.com",
+    "celular": "82988514753"
+  },
+  {
+    "email": "juliano.munhoz@hotmail.com",
+    "celular": "11997783773"
+  },
+  {
+    "email": "vitafarmaoficial01@gmail.com",
+    "celular": "99992288800"
+  },
+  {
+    "email": "gvc.gustavo@gmail.com",
+    "celular": "18998174455"
+  },
+  {
+    "email": "anapaulasubs@gmail.com",
+    "celular": "99984146261"
+  },
+  {
+    "email": "iasmylla@gmail.com",
+    "celular": "98982314764"
+  },
+  {
+    "email": "thnybarbosa@hotmail.com",
+    "celular": "21980988129"
+  },
+  {
+    "email": "bettahdomingues@gmail.com",
+    "celular": "35999197109"
+  },
+  {
+    "email": "farmabiofarmacia@gmail.com",
+    "celular": "15996037092"
+  },
+  {
+    "email": "daniel@iusecapital.com.br",
+    "celular": "11951979624"
+  },
+  {
+    "email": "raianeflor14@gmail.com",
+    "celular": "82996652474"
+  },
+  {
+    "email": "edernovaes82@gmail.com",
+    "celular": "11975321015"
+  },
+  {
+    "email": "ro424832@gmail.com",
+    "celular": "82993545251"
+  },
+  {
+    "email": "anna.costa@rmfarma.com.br",
+    "celular": "11939261735"
+  },
+  {
+    "email": "vihgarcia2015@outlook.com",
+    "celular": "11992737155"
+  },
+  {
+    "email": "ribeirojumartins@gmail.com",
+    "celular": "11958848743"
+  },
+  {
+    "email": "lilianceciliadesouzaoliveira@gmail.com",
+    "celular": "62981384232"
+  },
+  {
+    "email": "plataformasaas@rmfarma.com.br",
+    "celular": "11964410963"
+  },
+  {
+    "email": "meikerlins.al@outlook.com",
+    "celular": "99981139025"
+  },
+  {
+    "email": "farmafarmabbu@hotmail.com",
+    "celular": "65996236355"
+  },
+  {
+    "email": "julia.oliveira.coura@gmail.com",
+    "celular": "31993892703"
+  },
+  {
+    "email": "luizeduardonogueira366@gmail.com",
+    "celular": "94991608128"
+  },
+  {
+    "email": "bellroncoli@hotmail.com",
+    "celular": "21993930034"
+  },
+  {
+    "email": "henriquefarma89@gmail.com",
+    "celular": "11940076420"
+  },
+  {
+    "email": "pamelasilvar53@gmail.com",
+    "celular": "17997411838"
+  },
+  {
+    "email": "drogavida7@yahoo.com.br",
+    "celular": "37988116674"
+  },
+  {
+    "email": "victorgovedicermfarma@gmail.com",
+    "celular": "11941881298"
+  },
+  {
+    "email": "pamcarol20barros@gmail.com",
+    "celular": "17992074667"
+  },
+  {
+    "email": "hc712186@gmail.com",
+    "celular": "94981163838"
+  },
+  {
+    "email": "andre.monteiro@rmfarma.com.br",
+    "celular": "11993487968"
+  },
+  {
+    "email": "dudaa6102@gmail.com",
+    "celular": "62985922080"
+  },
+  {
+    "email": "ribeirojusselma@gmail.com",
+    "celular": "99988373913"
+  },
+  {
+    "email": "crisbel4@hotmail.com",
+    "celular": "62984971713"
+  },
+  {
+    "email": "jf_inacio@hotmail.com.br",
+    "celular": "35984116319"
+  },
+  {
+    "email": "azevedo.adriano@live.com",
+    "celular": "11979562981"
+  },
+  {
+    "email": "regininha2184@gmail.com",
+    "celular": "11986738353"
+  },
+  {
+    "email": "mirianbarone22@gmail.com",
+    "celular": "11985898322"
+  },
+  {
+    "email": "ygorsouza125h@gmail.com",
+    "celular": "11952283725"
+  },
+  {
+    "email": "dairaloguercio@gmail.com",
+    "celular": "19997661878"
+  },
+  {
+    "email": "kayanneabreu@hotmail.com",
+    "celular": "38999063727"
+  },
+  {
+    "email": "franandradefarma@gmail.com",
+    "celular": "32984461663"
+  },
+  {
+    "email": "istylus.orient@gmail.com",
+    "celular": "98981900312"
+  },
+  {
+    "email": "luis.gps@hotmail.com",
+    "celular": "61996288515"
+  },
+  {
+    "email": "gustavo.silva@rmfarma.com.br",
+    "celular": "12996496186"
+  },
+  {
+    "email": "jessicacristinaprates@hotmail.com",
+    "celular": "35997559836"
+  },
+  {
+    "email": "jehcprates@gmail.com",
+    "celular": "35997559836"
+  },
+  {
+    "email": "ilidicar@hotmail.com",
+    "celular": "98981900312"
+  },
+  {
+    "email": "fcapreti@uol.com.br",
+    "celular": "17997225300"
+  },
+  {
+    "email": "iasmimrha@gmail.com",
+    "celular": "38999703793"
+  },
+  {
+    "email": "cleidesilvademenezes@gmail.com",
+    "celular": "85986327405"
+  },
+  {
+    "email": "mesquitabianca18@gmail.com",
+    "celular": "85998023447"
+  },
+  {
+    "email": "ilaratamyres@hotmail.com",
+    "celular": "89981141797"
+  },
+  {
+    "email": "dayana.santos@rmfarma.com.br",
+    "celular": "35997295643"
+  },
+  {
+    "email": "wellington.martins@rmfarma.com.br",
+    "celular": "11996957436"
+  },
+  {
+    "email": "biofarma.adm@hotmail.com",
+    "celular": "27998038662"
+  },
+  {
+    "email": "wesley_m1@live.com",
+    "celular": "11949430733"
+  },
+  {
+    "email": "liviarodrigues9102@icloud.com",
+    "celular": "63984470230"
+  },
+  {
+    "email": "ferdnandogo10@hotmail.com",
+    "celular": "63991339026"
+  },
+  {
+    "email": "brunamarina544@gmail.com",
+    "celular": "35987012578"
+  },
+  {
+    "email": "luhd08@gmail.com",
+    "celular": "85994446761"
+  },
+  {
+    "email": "socorrodias_cs@hotmail.com",
+    "celular": "86981203799"
+  },
+  {
+    "email": "farmaciaptfloriano@outlook.com",
+    "celular": "86999662530"
+  },
+  {
+    "email": "brendalara200117@gmail.com",
+    "celular": "35997214239"
+  },
+  {
+    "email": "joyniellyxavier@gmail.com",
+    "celular": "91991360165"
+  },
+  {
+    "email": "fernando.boas@rmfarma.com.br",
+    "celular": "35910036974"
+  },
+  {
+    "email": "bs1151029@gmail.com",
+    "celular": "85992242273"
+  },
+  {
+    "email": "katianogueirasouzaspineli@gmail.com",
+    "celular": "35991060171"
+  },
+  {
+    "email": "vilnei.paiva@rmfarma.com.br",
+    "celular": "35997557342"
+  },
+  {
+    "email": "vilnei.paiva@rmfarma.com.br",
+    "celular": "35997557342"
+  },
+  {
+    "email": "vilnei.paiva@rmfarma.com.br",
+    "celular": "35997557342"
+  },
+  {
+    "email": "lucelia.lopes@rmfarma.com.br",
+    "celular": "11994310961"
+  },
+  {
+    "email": "bruna.carli@rmfarma.com.br",
+    "celular": "35997173377"
+  },
+  {
+    "email": "farmaciaimediata1@gmail.com",
+    "celular": "94992193595"
+  },
+  {
+    "email": "veronicamfe@gmail.com",
+    "celular": "11934695443"
+  },
+  {
+    "email": "farmaciadotrabalhadornazare@gmail.com",
+    "celular": "38992162288"
+  },
+  {
+    "email": "thalissontassoni@gmail.com",
+    "celular": "51989454777"
+  },
+  {
+    "email": "elias.oliveiramk@gmail.com",
+    "celular": "35988144483"
+  },
+  {
+    "email": "renandbo1991@gmail.com",
+    "celular": "85985560016"
+  },
+  {
+    "email": "maristelateen@hotmail.com",
+    "celular": "35997422219"
+  },
+  {
+    "email": "juanmirandamb@gmail.com",
+    "celular": "22988014615"
+  },
+  {
+    "email": "jose.pinheiro4321@gmail.com",
+    "celular": "9998495128"
+  },
+  {
+    "email": "samiremartins207@gmail.com",
+    "celular": "85981635235"
+  },
+  {
+    "email": "miguelmoreirammjg@gmail.com",
+    "celular": "8574017073"
+  },
+  {
+    "email": "lhmazzo96@hotmail.com",
+    "celular": "14997382488"
+  },
+  {
+    "email": "marinaxaviersilva8@gmail.com",
+    "celular": "62998291462"
+  },
+  {
+    "email": "farmapopulariaciara@outlook.com",
+    "celular": "62999012694"
+  },
+  {
+    "email": "dijefersom100vc@gmail.com",
+    "celular": "84987612926"
+  },
+  {
+    "email": "madony081090@gmail.com",
+    "celular": "85991070309"
+  },
+  {
+    "email": "sheila.sheilynha.silva5@gmail.com",
+    "celular": "35992073557"
+  },
+  {
+    "email": "rosa_mara05@hotmail.com",
+    "celular": "35998058628"
+  },
+  {
+    "email": "drogariamarques@hotmail.com",
+    "celular": "84987334132"
+  },
+  {
+    "email": "silveriarocha805@gmail.com",
+    "celular": "66984265822"
+  },
+  {
+    "email": "davisilvaneto17@gmail.com",
+    "celular": "34998671131"
+  },
+  {
+    "email": "anapaularamos.farmacia@gmail.com",
+    "celular": "69984065979"
+  },
+  {
+    "email": "emanuelmiguelnx@gmail.com",
+    "celular": "66996295010"
+  },
+  {
+    "email": "cr.ribeiro1998@gmail.com",
+    "celular": "22998562727"
+  },
+  {
+    "email": "diegodrogamais@hotmail.com",
+    "celular": "62985915932"
+  },
+  {
+    "email": "barbara.gomes@rmfarma.com.br",
+    "celular": "11977016182"
+  },
+  {
+    "email": "drogaria.saoroque@yahoo.com.br",
+    "celular": "18997063391"
+  },
+  {
+    "email": "marcoscabral0610@gmail.com",
+    "celular": "11947693688"
+  },
+  {
+    "email": "hq9jsfks28@privaterelay.appleid.com",
+    "celular": "35997214239"
+  },
+  {
+    "email": "ma.fei@ulend.com.br",
+    "celular": "11920859317"
+  },
+  {
+    "email": "farmasol@bol.com.br",
+    "celular": "54991326508"
+  },
+  {
+    "email": "danilo.meira@rmfarma.com.br",
+    "celular": "11989092906"
+  },
+  {
+    "email": "thiago.rodrigues@rmfarma.com.br",
+    "celular": "21988992204"
+  },
+  {
+    "email": "cintia.silva@rmfarma.com.br",
+    "celular": "11910638550"
+  },
+  {
+    "email": "gestaodeclientesbsm@gmail.com",
+    "celular": "82999484356"
+  },
+  {
+    "email": "beatris.oliveira@rmfarma.com.br",
+    "celular": "11982594985"
+  },
+  {
+    "email": "daniel.fernandes@rmfarma.com.br",
+    "celular": "35992038845"
+  },
+  {
+    "email": "thiago@playercontabilidade.com",
+    "celular": "63999697397"
+  },
+  {
+    "email": "santanafarmacontato@gmail.com",
+    "celular": "82993770311"
+  },
+  {
+    "email": "riccisouto@gmail.com",
+    "celular": "35999950411"
+  },
+  {
+    "email": "controladoria@umuprev.com.br",
+    "celular": "44999637833"
+  },
+  {
+    "email": "taynara.silveira@rmfarma.com.br",
+    "celular": "35991066115"
+  },
+  {
+    "email": "daniela.souza@rmfarma.com.br",
+    "celular": "35988382232"
+  },
+  {
+    "email": "daiana.savio@rmfarma.com.br",
+    "celular": "16996333960"
+  },
+  {
+    "email": "guilhermesobrinho90@gmail.com",
+    "celular": "99991384802"
+  },
+  {
+    "email": "moraeslohana29@gmail.com",
+    "celular": "32999281034"
+  },
+  {
+    "email": "pollydycastro@gmail.com",
+    "celular": "63985036755"
+  },
+  {
+    "email": "maisaudepharma@gmail.com",
+    "celular": "81991766561"
+  },
+  {
+    "email": "lacerda.sfx@gmail.com",
+    "celular": "69992575750"
+  },
+  {
+    "email": "pablo.p2@hotmail.com",
+    "celular": "32984348240"
+  },
+  {
+    "email": "lucia_lima_13@hotmail.com",
+    "celular": "6984041186"
+  },
+  {
+    "email": "sergiorufino50@gmail.com",
+    "celular": "22988744511"
+  },
+  {
+    "email": "oliveirajeliezer@gmail.com",
+    "celular": "11987107606"
+  },
+  {
+    "email": "myllene.nutricao@gmail.com",
+    "celular": "35999435089"
+  },
+  {
+    "email": "karina.siqueira1@outlook.com",
+    "celular": "35997474547"
+  },
+  {
+    "email": "romext2@gmail.com",
+    "celular": "94991015581"
+  },
+  {
+    "email": "larasiqueira1@icloud.com",
+    "celular": "45984046029"
+  },
+  {
+    "email": "sabinadodo814@gmail.com",
+    "celular": "31995782670"
+  },
+  {
+    "email": "tarcia_carolina@hotmail.com",
+    "celular": "22999232310"
+  },
+  {
+    "email": "andre.fraboni@yahoo.com.br",
+    "celular": "22999451241"
+  },
+  {
+    "email": "jessyca_santanna@hotmail.com",
+    "celular": "66992440070"
+  },
+  {
+    "email": "poohalvesr@gmail.com",
+    "celular": "94992780023"
+  },
+  {
+    "email": "allexandreitapeva@hotmail.com",
+    "celular": "15997471421"
+  },
+  {
+    "email": "tainaracosta754@gmail.com",
+    "celular": "15998243316"
+  },
+  {
+    "email": "francielisilva@secitec.mt.gov.br",
+    "celular": "65984295319"
+  },
+  {
+    "email": "lcasfreires@gmail.com",
+    "celular": "63984421765"
+  },
+  {
+    "email": "karinea621@gmail.com",
+    "celular": "63985169963"
+  },
+  {
+    "email": "daniel.custodio@rmfarma.com.br",
+    "celular": "35997484261"
+  },
+  {
+    "email": "sraissa258@gmail.com",
+    "celular": "21968075314"
+  },
+  {
+    "email": "kassianepereira748@gmail.com",
+    "celular": "65981072828"
+  },
+  {
+    "email": "mariana.lucas@rmfarma.com.br",
+    "celular": "15991074988"
+  },
+  {
+    "email": "cassiano.xavier@rmfarma.com.br",
+    "celular": "35 98893748"
+  },
+  {
+    "email": "marketingfarmanato@gmail.com",
+    "celular": "88993789193"
+  },
+  {
+    "email": "aline.asterio@rmfarma.com.br",
+    "celular": "35992397744"
+  },
+  {
+    "email": "fabianefernandeshf07@gmail.com",
+    "celular": "63984412116"
+  },
+  {
+    "email": "betania@droganor.com.br",
+    "celular": "38988280038"
+  },
+  {
+    "email": "esteraraujo230@gmail.com",
+    "celular": "38997263843"
+  },
+  {
+    "email": "thais.fernanda2203@gmail.com",
+    "celular": "38999755229"
+  },
+  {
+    "email": "lucasbbatista58@gmail.com",
+    "celular": "88992347725"
+  },
+  {
+    "email": "princiele.gomes@rmfarma.com.br",
+    "celular": "35988332777"
+  },
+  {
+    "email": "patresouza@gmail.com",
+    "celular": "75988642804"
+  },
+  {
+    "email": "andersonmickey600@gmail.com",
+    "celular": "85985385459"
+  },
+  {
+    "email": "brito.cristina2@gmail.com",
+    "celular": "21995346787"
+  },
+  {
+    "email": "weslainyvieira@icloud.com",
+    "celular": "33999243626"
+  },
+  {
+    "email": "amandacarduarte@gmail.com",
+    "celular": "35992527631"
+  },
+  {
+    "email": "farbruno.alves@gmail.com",
+    "celular": "63992079759"
+  },
+  {
+    "email": "lutergin@hotmail.com",
+    "celular": "11985780006"
+  },
+  {
+    "email": "eliano.farmanato@gmail.com",
+    "celular": "88996002478"
+  },
+  {
+    "email": "iracelenecorreadasilva@gmail.com",
+    "celular": "61994503046"
+  },
+  {
+    "email": "edileene1980@gmail.com",
+    "celular": "85985122918"
+  },
+  {
+    "email": "rogerfarmabrasil@gmail.com",
+    "celular": "75981897464"
+  },
+  {
+    "email": "rodrigom.natal@gmail.com",
+    "celular": "11982077522"
+  },
+  {
+    "email": "joyniellysousa@gmail.com",
+    "celular": "91991360165"
+  },
+  {
+    "email": "wilian.cs@hotmail.com",
+    "celular": "75988444337"
+  },
+  {
+    "email": "jordson.kaique@gmail.com",
+    "celular": "86995664083"
+  },
+  {
+    "email": "marcospaulo.oliveirajp@gmail.com",
+    "celular": "38998954001"
+  },
+  {
+    "email": "juniorsants16@gmail.com",
+    "celular": "37999581866"
+  },
+  {
+    "email": "carolineabreulima235@gmail.com",
+    "celular": "85988342518"
+  },
+  {
+    "email": "lieginalopez34@gmail.com",
+    "celular": "85986519830"
+  },
+  {
+    "email": "josi.fcunha@gmail.com",
+    "celular": "94984417202"
+  },
+  {
+    "email": "brenosilvansct@gmail.com",
+    "celular": "85992242273"
+  },
+  {
+    "email": "anasheila82@hotmail.com",
+    "celular": "85998054644"
+  },
+  {
+    "email": "patypodn2901@gmail.com",
+    "celular": "85996341680"
+  },
+  {
+    "email": "anajulia@farmahorto.com",
+    "celular": "11966198580"
+  },
+  {
+    "email": "farmapopulartaubate@gmail.com",
+    "celular": "12996196981"
+  },
+  {
+    "email": "deb2002marques@gmail.com",
+    "celular": "61981591914"
+  },
+  {
+    "email": "leopereirarft@hotmail.com",
+    "celular": "67996562581"
+  },
+  {
+    "email": "jessecpm@hotmail.com",
+    "celular": "67991866714"
+  },
+  {
+    "email": "rogeriofgoncalves67@gmail.com",
+    "celular": "38998997803"
+  },
+  {
+    "email": "karoline.silva@rmfarma.com.br",
+    "celular": "35998281527"
+  },
+  {
+    "email": "steffany.jsantos@gmail.com",
+    "celular": "27999159113"
+  },
+  {
+    "email": "leticiareinholz03@gmail.com",
+    "celular": "27996530360"
+  },
+  {
+    "email": "janainapagung190@gmail.com",
+    "celular": "27988717096"
+  },
+  {
+    "email": "taissilva-ped@hotmail.com",
+    "celular": "22998329709"
+  },
+  {
+    "email": "regilaine_romero1@hotmail.com",
+    "celular": "66999611119"
+  },
+  {
+    "email": "fernando.felippe@centralgenericos.com.br",
+    "celular": "32984278888"
+  },
+  {
+    "email": "boguscheskidaniela@gmail.com",
+    "celular": "42991348279"
+  },
+  {
+    "email": "hiper.popular@outlook.com",
+    "celular": "62981210530"
+  },
+  {
+    "email": "aneylinem@gmail.com",
+    "celular": "85988686473"
+  },
+  {
+    "email": "elanerodrigues1503@gmail.com",
+    "celular": "91989109463"
+  },
+  {
+    "email": "sabrina.martins.sousa.nx@gmail.com",
+    "celular": "66999831748"
+  },
+  {
+    "email": "anelizemenezes.am@gmail.com",
+    "celular": "85999786985"
+  },
+  {
+    "email": "juliano-muniz@hotmail.com",
+    "celular": "35997808221"
+  },
+  {
+    "email": "albuquerquecalice@gmail.com",
+    "celular": "62982171345"
+  },
+  {
+    "email": "anapaulareisjmmg@gmail.com",
+    "celular": "31983598778"
+  },
+  {
+    "email": "fabi.dcss@hotmail.com",
+    "celular": "31996819680"
+  },
+  {
+    "email": "arinicemcosta@gmail.com",
+    "celular": "85991183038"
+  },
+  {
+    "email": "ingridalima508@gmail.com",
+    "celular": "62991612336"
+  },
+  {
+    "email": "david.farmaciaideal@hotmail.com",
+    "celular": "62985885250"
+  },
+  {
+    "email": "carloseduardo915camargo@gmail.com",
+    "celular": "64999011587"
+  },
+  {
+    "email": "eduardacsanti@hotmail.com",
+    "celular": "64999506602"
+  },
+  {
+    "email": "lukas.pds@hotmail.com",
+    "celular": "37999373309"
+  },
+  {
+    "email": "wmsmonteiro@gmail.com",
+    "celular": "64999469610"
+  },
+  {
+    "email": "alicisantana124@gmail.com",
+    "celular": "79996276964"
+  },
+  {
+    "email": "geraldojuniorramos@gmail.com",
+    "celular": "99991345729"
+  },
+  {
+    "email": "drogariadafamilia2013@hotmail.com",
+    "celular": "62991994674"
+  },
+  {
+    "email": "mayfr06@gmail.com",
+    "celular": "64996095489"
+  },
+  {
+    "email": "anacdg23@hotmail.com",
+    "celular": "66996439970"
+  },
+  {
+    "email": "dianeoliveiraa89@gmail.com",
+    "celular": "98992051079"
+  },
+  {
+    "email": "gustavorosa2317@gmail.com",
+    "celular": "69981221130"
+  },
+  {
+    "email": "maria.costa@rmfarma.com.br",
+    "celular": "38988447656"
+  },
+  {
+    "email": "maira.lima@rmfarma.com.br",
+    "celular": "11959068985"
+  },
+  {
+    "email": "thiago.oliveira@rmfarma.com.br",
+    "celular": "3599451749"
+  },
+  {
+    "email": "lirielronsoni@icloud.com",
+    "celular": "66999254713"
+  },
+  {
+    "email": "danilofarmaceutico@outlook.com",
+    "celular": "34996765281"
+  },
+  {
+    "email": "florafamilia49@gmail.com",
+    "celular": "21968064770"
+  },
+  {
+    "email": "aluisio.filho.ap@gmail.com",
+    "celular": "85986216829"
+  },
+  {
+    "email": "erikataboza86@gmail.com",
+    "celular": "85989066300"
+  },
+  {
+    "email": "marianealves1993@gmail.com",
+    "celular": "35998541785"
+  },
+  {
+    "email": "caio.carvalho@rmfarma.com.br",
+    "celular": "35998192006"
+  },
+  {
+    "email": "itala.silva@rmfarma.com.br",
+    "celular": "11983913375"
+  },
+  {
+    "email": "moacirrower@gmail.com",
+    "celular": "49999205606"
+  },
+  {
+    "email": "cristianoronaldomacia@gmail.com",
+    "celular": "85994313428"
+  },
+  {
+    "email": "lucimar.sidney@gmail.com",
+    "celular": "79998190736"
+  },
+  {
+    "email": "dheymelima12@gmail.com",
+    "celular": "66981471753"
+  },
+  {
+    "email": "2502m1987@gmail.com",
+    "celular": "94991047355"
+  },
+  {
+    "email": "leonardo.bifi@hotmail.com",
+    "celular": "44997503624"
+  },
+  {
+    "email": "mariane.alves@rmfarma.com.br",
+    "celular": "35998541785"
+  },
+  {
+    "email": "defreirebrenna@gmail.com",
+    "celular": "85996328625"
+  },
+  {
+    "email": "diogocosta@aluno.unilab.edu.br",
+    "celular": "48988369181"
+  },
+  {
+    "email": "ana.barra@atmosferamobiliario.com.br",
+    "celular": "35988024338"
+  },
+  {
+    "email": "taynara.sales@rmfarma.com.br",
+    "celular": "35999598980"
+  },
+  {
+    "email": "luziany.oliveira@atmosferamobiliario.com.br",
+    "celular": "35999199907"
+  },
+  {
+    "email": "ericbergaminicc@gmail.com",
+    "celular": "19981200335"
+  },
+  {
+    "email": "rosy.martiny33@gmail.com",
+    "celular": "99991710729"
+  },
+  {
+    "email": "rodriguesmarli0621@gmail.com",
+    "celular": "66984138361"
+  },
+  {
+    "email": "clau.blaz@yahoo.com.br",
+    "celular": "11913717639"
+  },
+  {
+    "email": "mayracoelho15@gmail.com",
+    "celular": "62996078419"
+  },
+  {
+    "email": "rosimarbastos2022@outlook.com",
+    "celular": "31995928850"
+  },
+  {
+    "email": "clodezienisilva801@gmail.com",
+    "celular": "31983085474"
+  },
+  {
+    "email": "jose.junior@rmfarma.com.br",
+    "celular": "11910334149"
+  },
+  {
+    "email": "angelitacalanca@yahoo.com.br",
+    "celular": "18996660609"
+  },
+  {
+    "email": "diene.okano@hotmail.com",
+    "celular": "18991549046"
+  },
+  {
+    "email": "pedrohenrique4418@gmail.com",
+    "celular": "38998859926"
+  },
+  {
+    "email": "beholandaufrj@gmail.com",
+    "celular": "21988562411"
+  },
+  {
+    "email": "yankagaiato7@gmail.com",
+    "celular": "22988056957"
+  },
+  {
+    "email": "niltonpmk@hotmail.com",
+    "celular": "11972333597"
+  },
+  {
+    "email": "paulothiagods@gmail.com",
+    "celular": "85981616112"
+  },
+  {
+    "email": "andressa_16meri@hotmail.com",
+    "celular": "17996354453"
+  },
+  {
+    "email": "gfmarchioro@gmail.com",
+    "celular": "65999870501"
+  },
+  {
+    "email": "everton.nutrii@gmail.com",
+    "celular": "79999057460"
+  },
+  {
+    "email": "rafaelajesusoliveira15@gmail.com",
+    "celular": "91991938054"
+  },
+  {
+    "email": "alexandrecessar@gmail.com",
+    "celular": "91984817410"
+  },
+  {
+    "email": "lirielransoni@icloud.com",
+    "celular": "66999254713"
+  },
+  {
+    "email": "robson_r41@hotmail.com",
+    "celular": "82993730235"
+  },
+  {
+    "email": "giovanniam@outlook.com",
+    "celular": "84999556411"
+  },
+  {
+    "email": "lidianealvestorres@hotmail.com",
+    "celular": "82993064041"
+  },
+  {
+    "email": "camilesousa44@gmail.com",
+    "celular": "99991484871"
+  },
+  {
+    "email": "estudante.pav@gmail.com",
+    "celular": "16992200421"
+  },
+  {
+    "email": "joao_raphaell@live.com",
+    "celular": "66999896669"
+  },
+  {
+    "email": "joanasantosdarc28@gmail.com",
+    "celular": "88992023053"
+  },
+  {
+    "email": "andriellycioca@hotmail.com",
+    "celular": "67992587053"
+  },
+  {
+    "email": "brunapaixao199426@gmail.com",
+    "celular": "91992595685"
+  },
+  {
+    "email": "thaleana.eterno@gmail.com",
+    "celular": "21982545027"
+  },
+  {
+    "email": "harrisonvp69@gmail.com",
+    "celular": "21979619283"
+  },
+  {
+    "email": "thayanerezende.contato@gmail.com",
+    "celular": "21979761677"
+  },
+  {
+    "email": "emillymacedosilva@hotmail.com",
+    "celular": "21969023172"
+  },
+  {
+    "email": "daianequerino2018@gmail.com",
+    "celular": "66999521603"
+  },
+  {
+    "email": "amauridafarmacia@gmail.com",
+    "celular": "21984670113"
+  },
+  {
+    "email": "sarah20cristina@gmail.com",
+    "celular": "21999235617"
+  },
+  {
+    "email": "davidleonardo192@gmail.com",
+    "celular": "14935002017"
+  },
+  {
+    "email": "cleyrjunior6@gmail.com",
+    "celular": "66984140567"
+  },
+  {
+    "email": "souzajosiane194@gmail.com",
+    "celular": "66996455888"
+  },
+  {
+    "email": "alvesdelimacaua@gmail.com",
+    "celular": "82993561940"
+  },
+  {
+    "email": "niltonqueiroz987@gmail.com",
+    "celular": "85992024110"
+  },
+  {
+    "email": "victor.mesquita@rmfarma.com.br",
+    "celular": "35984419806"
+  },
+  {
+    "email": "joaopaulosousasilva76@gmail.com",
+    "celular": "66999571489"
+  },
+  {
+    "email": "adiel1295@outlook.com",
+    "celular": "62994606925"
+  },
+  {
+    "email": "enilary06@gmail.com",
+    "celular": "99991753844"
+  },
+  {
+    "email": "luana-caroline-17@hotmail.com",
+    "celular": "99992018089"
+  },
+  {
+    "email": "quiteria.oliveira69@gmail.com",
+    "celular": "82991084697"
+  },
+  {
+    "email": "jamilly.vicaelly03@gmail.com",
+    "celular": "82993898601"
+  },
+  {
+    "email": "gabriellysud2002@gmail.com",
+    "celular": "79988643444"
+  },
+  {
+    "email": "matheushenriquefonseca2021@gmail.com",
+    "celular": "66996077924"
+  },
+  {
+    "email": "samuelana0612@gmail.com",
+    "celular": "66996625558"
+  },
+  {
+    "email": "wuaalita@gmail.com",
+    "celular": "66996162987"
+  },
+  {
+    "email": "jacquelinysouza67@gmail.com",
+    "celular": "66981153236"
+  },
+  {
+    "email": "lukkasmonte94@gmail.com",
+    "celular": "85982070766"
+  },
+  {
+    "email": "trielybn@gmail.com",
+    "celular": "17996184644"
+  },
+  {
+    "email": "rosanacoelho2210@gmail.com",
+    "celular": "85985643003"
+  },
+  {
+    "email": "jc4513562@gmail.com",
+    "celular": "82993636166"
+  },
+  {
+    "email": "gislayne_tga@hotmail.com",
+    "celular": "66981055506"
+  },
+  {
+    "email": "rafles.silva@gmail.com",
+    "celular": "38991069032"
+  },
+  {
+    "email": "ligiakatiadias@gmail.com",
+    "celular": "85987696118"
+  },
+  {
+    "email": "drogaeve@gmail.com",
+    "celular": "16997017073"
+  },
+  {
+    "email": "taisaalvees8@gmail.com",
+    "celular": "64993360440"
+  },
+  {
+    "email": "darcalencar@hotmail.com",
+    "celular": "88996518579"
+  },
+  {
+    "email": "geovanna84@hotmail.com",
+    "celular": "32984027539"
+  },
+  {
+    "email": "adryellyrds@gmail.com",
+    "celular": "66999916893"
+  },
+  {
+    "email": "paula.jzp13@gmail.com",
+    "celular": "62998054467"
+  },
+  {
+    "email": "grazienediascampos331@gmail.com",
+    "celular": "66981448954"
+  },
+  {
+    "email": "brunapaixao199426@icloud.com",
+    "celular": "91992595685"
+  },
+  {
+    "email": "daianealvessilva1987@gmail.com",
+    "celular": "62992290799"
+  },
+  {
+    "email": "bs3018823@gmail.com",
+    "celular": "82993445760"
+  },
+  {
+    "email": "aparecidafsilva2014@gmail.com",
+    "celular": "11945345013"
+  },
+  {
+    "email": "aline.morais@rmfarma.com.br",
+    "celular": "35991717466"
+  },
+  {
+    "email": "tiago.elisei@atmosferamobiliario.com.br",
+    "celular": "35988273779"
+  },
+  {
+    "email": "lucas3010santos@gmail.com",
+    "celular": "85999620843"
+  },
+  {
+    "email": "moreiraedeirla@gmail.com",
+    "celular": "85989427594"
+  },
+  {
+    "email": "cs0365789@gmail.com",
+    "celular": "85992246610"
+  },
+  {
+    "email": "carolletsilva93@gmail.com",
+    "celular": "11933573321"
+  },
+  {
+    "email": "rafaelraquino3@gmail.com",
+    "celular": "35992383504"
+  },
+  {
+    "email": "ronei_peixoto@hotmail.com",
+    "celular": "75981212792"
+  },
+  {
+    "email": "lidiane-passos@hotmail.com",
+    "celular": "79998773367"
+  },
+  {
+    "email": "brunosousaa444@gmail.com",
+    "celular": "77981417814"
+  },
+  {
+    "email": "cintiafarma@hotmail.com",
+    "celular": "8533470125"
+  },
+  {
+    "email": "gildemar02@hotmail.com",
+    "celular": "85988767678"
+  },
+  {
+    "email": "isaquepereira580@gmail.com",
+    "celular": "99985146310"
+  },
+  {
+    "email": "adla.freitas40@gmail.com",
+    "celular": "81996628914"
+  },
+  {
+    "email": "amandasilvasol1000@gmail.com",
+    "celular": "77999737535"
+  },
+  {
+    "email": "hildemarfacundo@gmail.com",
+    "celular": "8533470125"
+  },
+  {
+    "email": "crcsouza12@gmail.com",
+    "celular": "77981341177"
+  },
+  {
+    "email": "lusitaniadossantossilva@gmail.com",
+    "celular": "77998160524"
+  },
+  {
+    "email": "adrianaqueirozdossantos2019@gmail.com",
+    "celular": "11961303494"
+  },
+  {
+    "email": "kauacesar@hotmail.com",
+    "celular": "77981012334"
+  },
+  {
+    "email": "renaimaria8@gmail.com",
+    "celular": "82982080097"
+  },
+  {
+    "email": "elienetete454@gmail.com",
+    "celular": "82981703410"
+  },
+  {
+    "email": "teresa_enfermagem2@hotmail.com",
+    "celular": "19983724910"
+  },
+  {
+    "email": "wanderson_marcos123@hotmail.com",
+    "celular": "79998917310"
+  },
+  {
+    "email": "fabiasantosserdeira05@gmail.com",
+    "celular": "85989733813"
+  },
+  {
+    "email": "indi.machado@hotmail.com",
+    "celular": "47997792360"
+  },
+  {
+    "email": "galaxythy@gmail.com",
+    "celular": "85985005263"
+  },
+  {
+    "email": "gabriel.jesus@rmfarma.com.br",
+    "celular": "11973892862"
+  },
+  {
+    "email": "palomacostasantos2018@gmail.com",
+    "celular": "54984071479"
+  },
+  {
+    "email": "francine.gimenes@rmfarma.com.br",
+    "celular": "11982348493"
+  },
+  {
+    "email": "oevelineoliveira26@gmail.com.br",
+    "celular": "85981080399"
+  },
+  {
+    "email": "maryanne.claudino@hotmail.com",
+    "celular": "82991713113"
+  },
+  {
+    "email": "janesantos.silva78@gmail.com",
+    "celular": "82996756689"
+  },
+  {
+    "email": "antoniobarros.cia@gmail.com",
+    "celular": "82999866565"
+  },
+  {
+    "email": "lucasgrandinu1@gmail.com",
+    "celular": "82987819577"
+  },
+  {
+    "email": "veronicatiburtino@gmail.com",
+    "celular": "31995020758"
+  },
+  {
+    "email": "isabelly_liimaah@hotmail.com",
+    "celular": "85985202585"
+  },
+  {
+    "email": "socorro_sousa27@hotmail.com",
+    "celular": "99988301977"
+  },
+  {
+    "email": "suelysetubal127@gmail.com",
+    "celular": "85997984023"
+  },
+  {
+    "email": "danylloalmeida67@gmail.com",
+    "celular": "94992294396"
+  },
+  {
+    "email": "hildemarfacundo@hotmail.com",
+    "celular": "85998496600"
+  },
+  {
+    "email": "daia_buss@hotmail.com",
+    "celular": "66992324991"
+  },
+  {
+    "email": "glauberson.voz@gmail.com",
+    "celular": "94988134831"
+  },
+  {
+    "email": "clayton.azevedo@grupoboticario.com.br",
+    "celular": "21983775830"
+  },
+  {
+    "email": "junioralveskira@gmail.com",
+    "celular": "85986816467"
+  },
+  {
+    "email": "julianaraissa15@gmail.com",
+    "celular": "91998227548"
+  },
+  {
+    "email": "hechilley37@gmail.com",
+    "celular": "94991813818"
+  },
+  {
+    "email": "nayranzan@hotmail.com",
+    "celular": "94992700537"
+  },
+  {
+    "email": "derlane342@gmail.com",
+    "celular": "94991844280"
+  },
+  {
+    "email": "victor98crato@gmail.com",
+    "celular": "88993518676"
+  },
+  {
+    "email": "mesquitavga@hotmail.com",
+    "celular": "35997369187"
+  },
+  {
+    "email": "nicolas.veras@rmfarma.com.br",
+    "celular": "11983992831"
+  },
+  {
+    "email": "farmaceuticoempreendedorbrasil@gmail.com",
+    "celular": "62982290714"
+  },
+  {
+    "email": "jaiamesilva3@gmail.com",
+    "celular": "91993960095"
+  },
+  {
+    "email": "andressav0212@gmail.com",
+    "celular": "85994207941"
+  },
+  {
+    "email": "marcelo.gomes@rmfarma.com.br",
+    "celular": "11981167591"
+  },
+  {
+    "email": "moreirathais95@gmail.com",
+    "celular": "77981242537"
+  },
+  {
+    "email": "valeriadantas8862@gmail.com",
+    "celular": "85997979685"
+  },
+  {
+    "email": "jacksilenecorpesteixeira@gmail.com",
+    "celular": "85989039731"
+  },
+  {
+    "email": "francilenealve152@gmail.com",
+    "celular": "85991031791"
+  },
+  {
+    "email": "rodrigueseliana371@gmail.com",
+    "celular": "85981141242"
+  },
+  {
+    "email": "hudsonferreira53lima@gmail.com",
+    "celular": "85991364602"
+  },
+  {
+    "email": "danieleisabelsc@gmail.com",
+    "celular": "16981893871"
+  },
+  {
+    "email": "jd7230684@gmail.com",
+    "celular": "62982099476"
+  },
+  {
+    "email": "regianearaujo856@gmail.com",
+    "celular": "32984169844"
+  },
+  {
+    "email": "talitanascimento945@hotmail.com",
+    "celular": "85986638849"
+  },
+  {
+    "email": "rosalorena981@gmail.com",
+    "celular": "32991816665"
+  },
+  {
+    "email": "chelymoreira123@gmail.com",
+    "celular": "22999421503"
+  },
+  {
+    "email": "arthurmelofer@hotmail.com",
+    "celular": "64992475630"
+  },
+  {
+    "email": "contatonoxti@gmail.com",
+    "celular": "64992475630"
+  },
+  {
+    "email": "vanessamiguel810@gmail.com",
+    "celular": "62982475310"
+  },
+  {
+    "email": "alesssandrasouza4321@gmail.com",
+    "celular": "22997359358"
+  },
+  {
+    "email": "adriellybarroso72@gmail.com",
+    "celular": "85997846420"
+  },
+  {
+    "email": "marketingfarmaciaprovida@gmail.com",
+    "celular": "85997846420"
+  },
+  {
+    "email": "lidianemattos375@gmail.com",
+    "celular": "92992970779"
+  },
+  {
+    "email": "anaelanovitor29@gmail.com",
+    "celular": "98984403154"
+  },
+  {
+    "email": "vitorfragoso16@gmail.com",
+    "celular": "83996258069"
+  },
+  {
+    "email": "joanimirele06@gmail.com",
+    "celular": "77991038074"
+  },
+  {
+    "email": "pr28a@hotmail.com",
+    "celular": "99988146129"
+  },
+  {
+    "email": "drogariajlcity@gmail.com",
+    "celular": "99988146129"
+  },
+  {
+    "email": "diogolima2538@gmail.com",
+    "celular": "24999945476"
+  },
+  {
+    "email": "mais.pharma@hotmail.com",
+    "celular": "35998113052"
+  },
+  {
+    "email": "raianeserafim2017@gmail.com",
+    "celular": "84996487451"
+  },
+  {
+    "email": "nadiamattos26@gmail.com",
+    "celular": "88996372163"
+  },
+  {
+    "email": "diogofaculdade2538@gmail.com",
+    "celular": "24999945476"
+  },
+  {
+    "email": "mileess07@gmail.com",
+    "celular": "77998082273"
+  },
+  {
+    "email": "kleiltonalmeida3@gmail.com",
+    "celular": "88996346475"
+  },
+  {
+    "email": "danielavascfarma@gmail.com",
+    "celular": "18981992834"
+  },
+  {
+    "email": "tulio.santos20@yahoo.com",
+    "celular": "87999525660"
+  },
+  {
+    "email": "sarmento057@gmail.com",
+    "celular": "91980653104"
+  },
+  {
+    "email": "juliapaborges@gmail.com",
+    "celular": "91998196931"
+  },
+  {
+    "email": "thaalita.kathlen@hotmail.com",
+    "celular": "99981294373"
+  },
+  {
+    "email": "poupemaisfilial@hotmail.com",
+    "celular": "99982242222"
+  },
+  {
+    "email": "yarafelix2330@gmail.com",
+    "celular": "21965934987"
+  },
+  {
+    "email": "carolbiercoelho@gmail.com",
+    "celular": "45999258731"
+  },
+  {
+    "email": "luizcarlosdelimaborba@gmail.com",
+    "celular": "66999297530"
+  },
+  {
+    "email": "maisa.katiely@icloud.com",
+    "celular": "81998031400"
+  },
+  {
+    "email": "luiswellingtonso@gmail.com",
+    "celular": "27996077953"
+  },
+  {
+    "email": "suellen.ot@gmail.com",
+    "celular": "14998515183"
+  },
+  {
+    "email": "ayltonminister@gmail.com",
+    "celular": "32991540355"
+  },
+  {
+    "email": "luizpsicologia2005@hotmail.com",
+    "celular": "32984634656"
+  },
+  {
+    "email": "camilasantos5793@gmail.com",
+    "celular": "77999540041"
+  },
+  {
+    "email": "wiglysonsilva839@gmail.com",
+    "celular": "91981734667"
+  },
+  {
+    "email": "samya_vanessasv@yahoo.com",
+    "celular": "88981240071"
+  },
+  {
+    "email": "isabel.salespires@gmail.com",
+    "celular": "31989143901"
+  },
+  {
+    "email": "mariaeduardalealdonascimento@hotmail.com",
+    "celular": "35999195580"
+  },
+  {
+    "email": "soraya.mirim@gmail.com",
+    "celular": "88992295791"
+  },
+  {
+    "email": "esmeralda.oliveira10@gmail.com",
+    "celular": "88981524848"
+  },
+  {
+    "email": "wtfernando@hotmail.com",
+    "celular": "65999381361"
+  },
+  {
+    "email": "jhonatannunes0501@hotmail.com",
+    "celular": "45988342096"
+  },
+  {
+    "email": "giselle_duarte17@hotmail.com",
+    "celular": "91981728201"
+  },
+  {
+    "email": "gessiiana@hotmail.com",
+    "celular": "21990756940"
+  },
+  {
+    "email": "hssf2010@gmail.com",
+    "celular": "91991970348"
+  },
+  {
+    "email": "dodi.silvazumkeller@hotmail.com",
+    "celular": "15991000336"
+  },
+  {
+    "email": "oliveira-83@live.com",
+    "celular": "77998285252"
+  },
+  {
+    "email": "rosangelarocharodrigues0@gmail.com",
+    "celular": "77999609677"
+  },
+  {
+    "email": "eduardsilva37@hotmail.com",
+    "celular": "88981780311"
+  },
+  {
+    "email": "prili_ma@yahoo.com.br",
+    "celular": "11976535222"
+  },
+  {
+    "email": "danilosantanapmgo@gmail.com",
+    "celular": "62984584248"
+  },
+  {
+    "email": "deborahluisabarbosa@gmail.com",
+    "celular": "77999315661"
+  },
+  {
+    "email": "thayannepereira01@gmail.com",
+    "celular": "82999676492"
+  },
+  {
+    "email": "liananogueira2020@gmail.com",
+    "celular": "85994445563"
+  },
+  {
+    "email": "aylthonbertty@hotmail.com",
+    "celular": "18981173910"
+  },
+  {
+    "email": "pamelladomingues2018@gmail.com",
+    "celular": "77998009568"
+  },
+  {
+    "email": "wallacedacostagomes@gmail.com",
+    "celular": "88997905445"
+  },
+  {
+    "email": "rivailldon5@hotmail.com",
+    "celular": "88998644700"
+  },
+  {
+    "email": "aureliofranca2016@gmail.com",
+    "celular": "85991832131"
+  },
+  {
+    "email": "edvanio-nunes@hotmail.com",
+    "celular": "88997894640"
+  },
+  {
+    "email": "snicoli781@icloud.com",
+    "celular": "94984056945"
+  },
+  {
+    "email": "grace_saraiva@hotmail.com",
+    "celular": "88998048188"
+  },
+  {
+    "email": "hiper.parauapebas@outlook.com",
+    "celular": "94999697799"
+  },
+  {
+    "email": "airton.a@gmail.com",
+    "celular": "21990226100"
+  },
+  {
+    "email": "rauanebritos@gmail.com",
+    "celular": "88988230083"
+  },
+  {
+    "email": "qtojrg@gmail.com",
+    "celular": "62999131011"
+  },
+  {
+    "email": "dheimonteiro@hotmail.com",
+    "celular": "79991387249"
+  },
+  {
+    "email": "lararafaely.silva110699@gmail.com",
+    "celular": "87996039915"
+  },
+  {
+    "email": "farmaciaspovo@gmail.com",
+    "celular": "77998014645"
+  },
+  {
+    "email": "fabiotheeterno@gmail.com",
+    "celular": "87996105911"
+  },
+  {
+    "email": "kalinelima2018a@gmail.com",
+    "celular": "87996309729"
+  },
+  {
+    "email": "fgmesquita1983@gmail.com",
+    "celular": "85998426295"
+  },
+  {
+    "email": "amandac2707@gmail.com",
+    "celular": "98984449261"
+  },
+  {
+    "email": "elianedossantos291084@gmail.com",
+    "celular": "91982181017"
+  },
+  {
+    "email": "vanderlenesouzachavitolimasouz@gmail.com",
+    "celular": "94992769694"
+  },
+  {
+    "email": "arthurandrerr@gmail.com",
+    "celular": "88997683037"
+  },
+  {
+    "email": "kaykjordao58@gmail.com",
+    "celular": "94984419092"
+  },
+  {
+    "email": "lenapeixoto1@hotmail.com",
+    "celular": "88998689056"
+  },
+  {
+    "email": "daniloricardocorretor@gmail.com",
+    "celular": "88982293777"
+  },
+  {
+    "email": "rafaelmarinhobasto6@gmail.com",
+    "celular": "88981644218"
+  },
+  {
+    "email": "ingridmayra04@gmail.com",
+    "celular": "88994612412"
+  },
+  {
+    "email": "flaviaacostt@gmail.com",
+    "celular": "88992191894"
+  },
+  {
+    "email": "elzanice_ce@hotmail.com",
+    "celular": "88993272225"
+  },
+  {
+    "email": "paulasandra436@gmail.com",
+    "celular": "88981873356"
+  },
+  {
+    "email": "maxwellrodrigues422@gmail.com",
+    "celular": "88999517651"
+  },
+  {
+    "email": "lucianolcamilo@gmail.com",
+    "celular": "88996414091"
+  },
+  {
+    "email": "danielydmoreira@gmail.com",
+    "celular": "94984066141"
+  },
+  {
+    "email": "diego.marrocos91@gmail.com",
+    "celular": "94992201336"
+  },
+  {
+    "email": "luiscarmofrancoso@hotmail.com",
+    "celular": "34984459988"
+  },
+  {
+    "email": "palomanogueira.lm@gmail.com",
+    "celular": "88999664636"
+  },
+  {
+    "email": "andrecorreia_20@hotmail.com",
+    "celular": "99991707837"
+  },
+  {
+    "email": "leandromiqueli@gmail.com",
+    "celular": "48991228954"
+  },
+  {
+    "email": "dianasilva070819@gmail.com",
+    "celular": "88994413162"
+  },
+  {
+    "email": "felipebarbosa2607@gmail.com",
+    "celular": "77998212939"
+  },
+  {
+    "email": "nathellynogueira@gmail.com",
+    "celular": "88993155313"
+  },
+  {
+    "email": "rodrigoportoara@gmail.com",
+    "celular": "87999197033"
+  },
+  {
+    "email": "farmacosta12@gmail.com",
+    "celular": "82999855612"
+  },
+  {
+    "email": "saramirele2016@gmail.com",
+    "celular": "8198413529"
+  },
+  {
+    "email": "daviddbzmods@gmail.com",
+    "celular": "3194734052"
+  },
+  {
+    "email": "elviabrenes20132013@gmail.com",
+    "celular": "31981131492"
+  },
+  {
+    "email": "laisdejesus.dorea97@gmail.com",
+    "celular": "71986169188"
+  },
+  {
+    "email": "maria_leidiane@hotmail.com",
+    "celular": "71986087092"
+  },
+  {
+    "email": "nynna2117@gmail.com",
+    "celular": "34992972575"
+  },
+  {
+    "email": "ayrianeoliveiraramos@hotmail.com",
+    "celular": "98981196619"
+  },
+  {
+    "email": "nunes.isadora48@gmail.com",
+    "celular": "51998347057"
+  },
+  {
+    "email": "christinaraiol67@gmail.com",
+    "celular": "91987623735"
+  },
+  {
+    "email": "inaldobrito@gmail.com",
+    "celular": "91980729047"
+  },
+  {
+    "email": "souza.brunorenan@gmail.com",
+    "celular": "11984149495"
+  },
+  {
+    "email": "willy.l.canavieira@gmail.com",
+    "celular": "91985062510"
+  },
+  {
+    "email": "priscilla.sampaio@rmfarma.com.br",
+    "celular": "35988744975"
+  },
+  {
+    "email": "mariana.cardoso@rmfarma.com.br",
+    "celular": "11992602623"
+  },
+  {
+    "email": "aleixorafaela92@gmail.com",
+    "celular": "91998061717"
+  },
+  {
+    "email": "emilly83506054@gmail.com",
+    "celular": "91983506054"
+  },
+  {
+    "email": "yrllensillva@gmail.com",
+    "celular": "91988441632"
+  },
+  {
+    "email": "jhullyebotelho49779@gmail.com",
+    "celular": "91985648813"
+  },
+  {
+    "email": "edudubrother@gmail.com",
+    "celular": "31991571554"
+  },
+  {
+    "email": "saudefarmaguriri@hotmail.com",
+    "celular": "27981140994"
+  },
+  {
+    "email": "nenabandeira@gmail.com",
+    "celular": "85992551590"
+  },
+  {
+    "email": "karolsousa25361@gmail.com",
+    "celular": "85987785645"
+  },
+  {
+    "email": "alexglaydesousa03@gmail.com",
+    "celular": "85989601477"
+  },
+  {
+    "email": "larissasandy6157@gmail.com",
+    "celular": "85991863478"
+  },
+  {
+    "email": "oldemarneto11@gmail.com",
+    "celular": "64993064303"
+  },
+  {
+    "email": "yurinathann231@gmail.com",
+    "celular": "35999584463"
+  },
+  {
+    "email": "joaogabrielvicente@gmail.com",
+    "celular": "21964681703"
+  },
+  {
+    "email": "danielbispoarruda25@gmail.com",
+    "celular": "65999828929"
+  },
+  {
+    "email": "rafael.a.crisostomoo@gmail.com",
+    "celular": "38988286918"
+  },
+  {
+    "email": "perfumaria.drog@gmail.com",
+    "celular": "22997296814"
+  },
+  {
+    "email": "rodrigo.rlrz@gmail.com",
+    "celular": "14998375184"
+  },
+  {
+    "email": "rosangelakelly1234@gmail.com",
+    "celular": "85996789099"
+  },
+  {
+    "email": "gerleneoliveira2022@gmail.com",
+    "celular": "85996020603"
+  },
+  {
+    "email": "nubiarodrigues1982@icloud.com",
+    "celular": "64999245353"
+  },
+  {
+    "email": "adm.farmaciasuperbem@gmail.com",
+    "celular": "77999480139"
+  },
+  {
+    "email": "rykier70@gmail.com",
+    "celular": "55996990694"
+  },
+  {
+    "email": "admfarmaciasuperbem@gmail.com",
+    "celular": "77999480139"
+  },
+  {
+    "email": "prudenciobraga.mariakatiane@gmail.com",
+    "celular": "85988898904"
+  },
+  {
+    "email": "larissasandy2211@gmail.com",
+    "celular": "85991863478"
+  },
+  {
+    "email": "lyzlinda2@gmail.com",
+    "celular": "85981281012"
+  },
+  {
+    "email": "kaikesouzac@gmail.com",
+    "celular": "11991976956"
+  },
+  {
+    "email": "gabrielamsousa@icloud.com",
+    "celular": "64981299664"
+  },
+  {
+    "email": "analiamarques6@gmail.com",
+    "celular": "85986456155"
+  },
+  {
+    "email": "gilmariafelicio07@gmail.com",
+    "celular": "85988662955"
+  },
+  {
+    "email": "dressinha.freitas2002@hotmail.com",
+    "celular": "15996611478"
+  },
+  {
+    "email": "sibele.lopes@universidadedafarmacia.com.br",
+    "celular": "11959724928"
+  },
+  {
+    "email": "drelum@gmail.com",
+    "celular": "11993487968"
+  },
+  {
+    "email": "rosilene2016ce@gmail.com",
+    "celular": "85988639658"
+  },
+  {
+    "email": "andreiadaisa05@gmail.com",
+    "celular": "38998890101"
+  },
+  {
+    "email": "kayllanneves8@gmail.com",
+    "celular": "6199689920"
+  },
+  {
+    "email": "chaiiii.ar@gmail.com",
+    "celular": "53984012408"
+  },
+  {
+    "email": "camilaassie151@gmail.com",
+    "celular": "69996043119"
+  },
+  {
+    "email": "drogariacentral375@gmail.com",
+    "celular": "67999462023"
+  },
+  {
+    "email": "lidmarcia3@gmail.com",
+    "celular": "21994062841"
+  },
+  {
+    "email": "karlaraphaelaaguiarborges@gmail.com",
+    "celular": "17981657366"
+  },
+  {
+    "email": "julianasilva190898@gmail.com",
+    "celular": "91985653877"
+  },
+  {
+    "email": "ornelassaude@outlook.com",
+    "celular": "38998089633"
+  },
+  {
+    "email": "ulyanemartins0309@gmail.com",
+    "celular": "91982187188"
+  },
+  {
+    "email": "paulaguiar15@hotmail.com",
+    "celular": "34999979925"
+  },
+  {
+    "email": "mellinalanna@gmail.com",
+    "celular": "31984755014"
+  },
+  {
+    "email": "bielbiriri@yahoo.com.br",
+    "celular": "22974065775"
+  },
+  {
+    "email": "felipeagabo2@gmail.com",
+    "celular": "75999152391"
+  },
+  {
+    "email": "eduardosantoscruz82162@gmail.com",
+    "celular": "75998891306"
+  },
+  {
+    "email": "emersoncosta683@gmail.com",
+    "celular": "82996617371"
+  },
+  {
+    "email": "betsnunes@gmail.com",
+    "celular": "38988280038"
+  },
+  {
+    "email": "marcus.miranda@rmfarma.com.br",
+    "celular": "35998491312"
+  },
+  {
+    "email": "marcosl.torejane@gmail.com",
+    "celular": "38999412822"
+  },
+  {
+    "email": "eliane.dias@rmfarma.com.br",
+    "celular": "35999650624"
+  },
+  {
+    "email": "vs2161956@gmail.com",
+    "celular": "21973239979"
+  },
+  {
+    "email": "mbernardes@maconequi.com.br",
+    "celular": "21988143125"
+  },
+  {
+    "email": "silmadinizaguiar39@gmail.com",
+    "celular": "98992510356"
+  },
+  {
+    "email": "marilia.arouche@gmail.com",
+    "celular": "98988696999"
+  },
+  {
+    "email": "camilotopb@hotmail.com",
+    "celular": "69999621434"
+  },
+  {
+    "email": "gabimedeiros426@gmail.com",
+    "celular": "21981811820"
+  },
+  {
+    "email": "joaovitormedeirosrocha2013@gmail.com",
+    "celular": "27995051862"
+  },
+  {
+    "email": "hugolfontes@icloud.com",
+    "celular": "71991101148"
+  },
+  {
+    "email": "carlosmeriato@icloud.com",
+    "celular": "35987011383"
+  },
+  {
+    "email": "maisfarmarp@gmail.com",
+    "celular": "16920009200"
+  },
+  {
+    "email": "evandromello12015@outlook.com",
+    "celular": "66984264499"
+  },
+  {
+    "email": "junior@bmsolution.com.br",
+    "celular": "11980442762"
+  },
+  {
+    "email": "gerenciafilial01@callmedce.com.br",
+    "celular": "85997547945"
+  },
+  {
+    "email": "fiscal@contarnet.com.br",
+    "celular": "77999007591"
+  },
+  {
+    "email": "amanda.lopess77@gmail.com",
+    "celular": "28999321527"
+  },
+  {
+    "email": "gm8182069@gmail.com",
+    "celular": "11981706871"
+  },
+  {
+    "email": "luciana_70_coelho@yahoo.com.br",
+    "celular": "21996838730"
+  },
+  {
+    "email": "cayroocarvalho@gmail.com",
+    "celular": "66999717018"
+  },
+  {
+    "email": "rosana.laurindo@rmfarma.com.br",
+    "celular": "32999309840"
+  },
+  {
+    "email": "jessicafer.s.p@gmail.com",
+    "celular": "35999443672"
+  },
+  {
+    "email": "beatrizdequadralamb@gmail.com",
+    "celular": "66992503176"
+  },
+  {
+    "email": "isadorafachin@hotmail.com",
+    "celular": "46999315099"
+  },
+  {
+    "email": "deniseolyver11@gmail.com",
+    "celular": "85994305095"
+  },
+  {
+    "email": "lucianealine6@gmail.com",
+    "celular": "92995299526"
+  },
+  {
+    "email": "lusianesbsoares@gmail.com",
+    "celular": "85999065372"
+  },
+  {
+    "email": "ala842na@gmail.com",
+    "celular": "82988046195"
+  },
+  {
+    "email": "ruth.maria.mesquita@hotmail.com",
+    "celular": "49991419376"
+  },
+  {
+    "email": "contato.valeriam@outlook.com",
+    "celular": "85985456938"
+  },
+  {
+    "email": "hiperpopular10@gmail.com",
+    "celular": "68999397172"
+  },
+  {
+    "email": "anafabiagomezchagas09@gmail.com",
+    "celular": "88997970883"
+  },
+  {
+    "email": "alisth18@hotmail.com",
+    "celular": "31991126689"
+  },
+  {
+    "email": "felipe@farmaciaramos.com.br",
+    "celular": "54991831160"
+  },
+  {
+    "email": "simonecoimbra32@gmail.com",
+    "celular": "49991072394"
+  },
+  {
+    "email": "patriciaaalcantaraofc@gmail.com",
+    "celular": "79988375897"
+  },
+  {
+    "email": "beth180115m@gmail.com",
+    "celular": "85991405719"
+  },
+  {
+    "email": "raiaradasilva20@gmail.com",
+    "celular": "91985957686"
+  },
+  {
+    "email": "renatomedeiros1996@icloud.com",
+    "celular": "27998460665"
+  },
+  {
+    "email": "gabrielnobregaguedes@gmail.com",
+    "celular": "84986216845"
+  },
+  {
+    "email": "almir.andradevieira@gmail.com",
+    "celular": "98982995114"
+  },
+  {
+    "email": "michelioli378@gmail.com",
+    "celular": "27996324158"
+  },
+  {
+    "email": "joaopalma305@gmail.com",
+    "celular": "94992358376"
+  },
+  {
+    "email": "mardsonvp10@gmail.com",
+    "celular": "27999535987"
+  },
+  {
+    "email": "felipe.cunha@rmfarma.com.br",
+    "celular": "35997010465"
+  },
+  {
+    "email": "michele.humberto@rmfarma.com.br",
+    "celular": "35988767186"
+  },
+  {
+    "email": "pamelagouvelafarma@gmail.com",
+    "celular": "22992190606"
+  },
+  {
+    "email": "adair.vinicius004@hotmail.com",
+    "celular": "67999440393"
+  },
+  {
+    "email": "cristian.aureliano@rmfarma.com.br",
+    "celular": "11954676369"
+  },
+  {
+    "email": "wendymairon10@gmail.com",
+    "celular": "69992255256"
+  },
+  {
+    "email": "daniela.tavares@rmfarma.com.br",
+    "celular": "35988148186"
+  },
+  {
+    "email": "marcia.marques@rmfarma.com.br",
+    "celular": "35987126158"
+  },
+  {
+    "email": "amanhelena@hotmail.com",
+    "celular": "15998360710"
+  },
+  {
+    "email": "francielmaduarte2310@hotmail.com",
+    "celular": "99991513346"
+  },
+  {
+    "email": "ilkianebrandao@gmail.com",
+    "celular": "99984304414"
+  },
+  {
+    "email": "kerenmourasilva@gmail.com",
+    "celular": "99991672625"
+  },
+  {
+    "email": "dannycriscxs@gmail.com",
+    "celular": "99984824036"
+  },
+  {
+    "email": "carlos.junior@universidadedafarmacia.com.br",
+    "celular": "35987011383"
+  }
+]

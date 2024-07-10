@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Cadastro de Colaboradores</title>
+      <link rel="stylesheet" href="form.css" />
+      <link rel="stylesheet" href="header.css" />
+      <link rel="stylesheet" href="common.css" />
+      <script src="./form.js" defer type="module"></script>
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <link
+         href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap"
+         rel="stylesheet"
+      />
+   </head>
+   <body>
+      <header>
+         <img src="logo.png" alt="" />
+         <nav>
+            <a href="./index.html" class="selected">Cadastro de Colaboradores</a>
+            <a href="./colaboradores.html">Meus Colaboradores</a>
+            <a href="./dashboard_performance.html">Progresso de Estudo</a>
+         </nav>
+         <div class="menu-toggle">
+            <div class="hamburger"></div>
+            <div class="hamburger"></div>
+            <div class="hamburger"></div>
+         </div>
+         <div class="gray-bg-nav-hamburguer hidden">
+            <div class="nav-links">
+               <a href="./index.html" class="selected">Cadastro de Colaboradores</a>
+               <a href="./colaboradores.html">Meus Colaboradores</a>
+               <a href="./dashboard_performance.html">Progresso de Estudo</a>
+            </div>
+         </div>
+      </header>
+      <div id="main-container" class="mainContainer">
+         <h2>Cadastro de Colaboradores</h2>
+
+         <div class="cnpjSelectorDiv">
+            <h3>Selecione o CNPJ</h3>
+            <select name="cnpj" id="cnpj-selector"></select>
+         </div>
+         <div class="formGroup">
+            <h3 id="error-msg" class="hidden">
+               Preencha corretamente os campos em vermelho e reenvie o formulário
+            </h3>
+            <div id="form"></div>
+            <button id="newUserBtn" type="button">+</button>
+         </div>
+         <button id="submitBtn" type="button">Criar Usuário</button>
+      </div>
+   </body>
+</html>

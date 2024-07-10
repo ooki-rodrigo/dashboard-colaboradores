@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Dashboard</title>
+      <link rel="stylesheet" href="dashboard_performance.css" />
+      <link rel="stylesheet" href="./header.css" />
+      <link rel="stylesheet" href="common.css" />
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <link
+         href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+         rel="stylesheet"
+      />
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css" />
+   </head>
+   <body>
+      <header>
+         <img src="logo.png" alt="" />
+         <nav>
+            <a href="./index.html">Cadastro de Colaboradores</a>
+            <a href="./colaboradores.html">Meus Colaboradores</a>
+            <a href="./dashboard_performance.html" class="selected">Progresso de Estudo</a>
+         </nav>
+         <div class="menu-toggle">
+            <div class="hamburger"></div>
+            <div class="hamburger"></div>
+            <div class="hamburger"></div>
+         </div>
+         <div class="gray-bg-nav-hamburguer hidden">
+            <div class="nav-links">
+               <a href="./index.html">Cadastro de Colaboradores</a>
+               <a href="./colaboradores.html">Meus Colaboradores</a>
+               <a href="./dashboard_performance.html" class="selected">Progresso de Estudo</a>
+            </div>
+         </div>
+      </header>
+      <div class="mainContainerDiv">
+         <div id="loadingIndicator">
+            <div class="spinner">
+               <div></div>
+               <div></div>
+               <div></div>
+               <div></div>
+               <div></div>
+            </div>
+            <h3 id="loadingText">Carregando...</h3>
+         </div>
+
+         <div class="mainContainer">
+            <div class="topSection">
+               <div id="headingBox" class="headingBox hidden showWhenLoaded">
+                  <h1>Progresso de Estudos</h1>
+                  <p>
+                     Olá <span id="adminName"></span>! Veja aqui as informações de estudo de seus
+                     colaboradores. Você encontrará os dados mais recentes sobre os cursos e horas
+                     de estudo, além de um ranking para fazer ações de endomarketing para o seu
+                     time.
+                  </p>
+               </div>
+               <div id="rankingBox" class="rankingBox hidden showWhenLoaded">
+                  <p class="filterHeader">Filtrar o Ranking pela data de Conclusão dos Cursos</p>
+                  <p>(Não afeta a coluna "Tempo de Estudo")</p>
+                  <div class="filtersRow">
+                     <div class="filterInputs">
+                        <label for="minDate">De:</label>
+                        <input
+                           type="text"
+                           id="minDate"
+                           class="date-input"
+                           placeholder="Selecione..."
+                           data-unixtime="1"
+                        />
+
+                        <label for="maxDate">Até:</label>
+                        <input
+                           type="text"
+                           id="maxDate"
+                           class="date-input"
+                           placeholder="Selecione..."
+                           data-unixtime="99999999999999999999999"
+                        />
+                     </div>
+                     <div class="btnGroup">
+                        <button id="filterByDateBtn" class="dateBtn">Filtrar</button>
+                        <button id="removeDateFilterBtn" class="dateBtn cleanBtn">Limpar</button>
+                     </div>
+                  </div>
+
+                  <div id="ranking-container">
+                     <!-- RANKING WILL BE DINAMICALLY GENERATED HERE -->
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="grayContainer hidden showWhenLoaded">
+            <div class="mainContainer">
+               <div class="mainSection">
+                  <div class="reportsHeader">
+                     <div class="reportsTitleBox hidden showWhenLoaded">
+                        <h2>Dados por Usuário</h2>
+                        <p>Detalhes do progresso dos colaboradores em cada curso</p>
+                     </div>
+
+                     <div id="headingBox3" class="headingBox headingBox3 hidden showWhenLoaded">
+                        <select class="userSelect"></select>
+                        <div id="filterBtnGroup" class="filterBtnGroup">
+                           <img src="./filter.png" alt="" />
+                           <select id="options">
+                              <option value="" disabled selected>Filtros</option>
+                              <option value="completed">Finalizados</option>
+                              <option value="not_completed">Em andamento</option>
+                              <option value="not_started">Não Iniciado</option>
+                           </select>
+
+                           <button id="filterByStatusBtn">
+                              <img src="./lupa.svg" alt="" />
+                           </button>
+                           <button class="terciaryBtn" id="removeFilterBtn">Remover Filtros</button>
+                        </div>
+
+                        <div id="orderBtnGroup" class="orderBtnGroup hidden showWhenLoaded">
+                           <label>Ordenar</label>
+                           <button class="secondaryBtn" id="orderByProgressBtn">Progresso</button>
+                           <button class="secondaryBtn" id="orderByScoreBtn">Nota</button>
+                           <button class="secondaryBtn" id="orderByTimeBtn">Tempo</button>
+                        </div>
+                     </div>
+                  </div>
+
+                  <div id="reportsContainer">
+                     <div class="user-tables">
+                        <!-- USER TABLES WILL BE DINAMICALLY GENERATED HERE -->
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <script src="https://npmcdn.com/flatpickr/dist/flatpickr.min.js"></script>
+      <script src="https://npmcdn.com/flatpickr/dist/l10n/pt.js"></script>
+      <script src="./dashboard_performance.js" defer type="module"></script>
+   </body>
+</html>
