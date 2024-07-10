@@ -1,5 +1,5 @@
 const clientId = "63cfd92085cf5d2cb507c4b2";
-const inputString = "4a1eYobDQzUjkBn7oGSKSvLbxTt40uxndemjAdlY";
+const inputString = "4a1eYobDQyUjkBn7oGSKSuLbxTt40uxndemjAdlY";
 
 document.querySelector(".menu-toggle").addEventListener("click", function () {
    document.querySelector(".menu-toggle").classList.toggle("active");
