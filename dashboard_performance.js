@@ -150,7 +150,7 @@ document.addEventListener("DOMContentLoaded", function () {
    });
 });
 
-const authToken_3681763231 = transformString(inputString, 1);
+const authToken_3681763231 = "5b2fZpcER0VklCo8pHTLTwMcyUu51vyoefNkBemZ"
 
 let userProgressDataFromAPI = [];
 let userProgressData = [];
