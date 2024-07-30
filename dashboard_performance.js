@@ -1,5 +1,5 @@
 const clientId = "63cfd92085cf5d2cb507c4b2";
-const inputString = "P5vmYnW1p3oXlFMFYH4DoetK1cxRBpVmWvYfoAhO";
+const inputString = "4a1eYobDQzUjkBn7oGSKSvLbxTt40uxndemjAdlY";
 
 document.querySelector(".menu-toggle").addEventListener("click", function () {
    document.querySelector(".menu-toggle").classList.toggle("active");
@@ -150,7 +150,7 @@ document.addEventListener("DOMContentLoaded", function () {
    });
 });
 
-const authToken_3681763231 = "5b2fZpcER0VklCo8pHTLTwMcyUu51vyoefNkBemZ"
+const authToken_3681763231 = "P5vmYnW1p3oXlFMFYH4DoetK1cxRBpVmWvYfoAhO"
 
 let userProgressDataFromAPI = [];
 let userProgressData = [];
