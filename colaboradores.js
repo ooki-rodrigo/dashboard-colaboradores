@@ -6,7 +6,7 @@ document.querySelector(".menu-toggle").addEventListener("click", function () {
 let adminInfo = {};
 
 const authHeaders_237187381937 = new Headers({
-   Authorization: "Bearer 5b2fZpcER0VklCo8pHTLTwMcyUu51vyoefNkBemZ",
+   Authorization: "Bearer P5vmYnW1p3oXlFMFYH4DoetK1cxRBpVmWvYfoAhO",
    "Lw-Client": "63cfd92085cf5d2cb507c4b2",
    "Content-Type": "application/json",
    Accept: "application/json",
@@ -108,7 +108,7 @@ function populateCompanySelector() {
 
 async function fetchUsers(companyTag) {
    const authHeaders_237187381937 = new Headers({
-      Authorization: "Bearer 5b2fZpcER0VklCo8pHTLTwMcyUu51vyoefNkBemZ",
+      Authorization: "Bearer P5vmYnW1p3oXlFMFYH4DoetK1cxRBpVmWvYfoAhO",
       "Lw-Client": "63cfd92085cf5d2cb507c4b2",
    });
 
