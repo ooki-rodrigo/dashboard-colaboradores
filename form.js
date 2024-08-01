@@ -13,7 +13,7 @@ const mainContainer = document.getElementById("main-container");
 document.getElementById("newUserBtn").addEventListener("click", createNewUserFields);
 document.getElementById("submitBtn").addEventListener("click", handleSubmit);
 const form = document.getElementById("form");
-const authToken_3681763231 = "5b2fZpcER0VklCo8pHTLTwMcyUu51vyoefNkBemZ";
+const authToken_3681763231 = "P5vmYnW1p3oXlFMFYH4DoetK1cxRBpVmWvYfoAhO";
 
 const authHeaders_237187381937 = new Headers({
    Authorization: "Bearer " + authToken_3681763231,
