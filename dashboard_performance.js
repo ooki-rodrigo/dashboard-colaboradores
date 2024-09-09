@@ -235,7 +235,7 @@ async function generateDashboard() {
 
 async function fetchUsers(companyTag) {
    fetchWithRateLimit(
-      `https://online.universidadedafarmacia.com.br/admin/api/v2/users?tags=${companyTag}?items_per_page=200`,
+      `https://online.universidadedafarmacia.com.br/admin/api/v2/users?tags=${companyTag}&items_per_page=200`,
       options
    )
       .then((response) => {
